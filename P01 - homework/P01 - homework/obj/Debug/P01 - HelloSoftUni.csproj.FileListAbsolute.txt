@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\bin\Debug\P01 - homework.exe.config
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\bin\Debug\P01 - homework.exe
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\bin\Debug\P01 - homework.pdb
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\obj\Debug\P01 - HelloSoftUni.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\obj\Debug\P01 - HelloSoftUni.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\obj\Debug\P01 - homework.exe
-C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P01 - homework\obj\Debug\P01 - homework.pdb
