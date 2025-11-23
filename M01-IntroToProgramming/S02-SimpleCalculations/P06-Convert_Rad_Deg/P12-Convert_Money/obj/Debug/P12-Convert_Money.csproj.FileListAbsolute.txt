@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\bin\Debug\P12-Convert_Money.exe.config
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\bin\Debug\P12-Convert_Money.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\bin\Debug\P12-Convert_Money.pdb
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\obj\Debug\P12-Convert_Money.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\obj\Debug\P12-Convert_Money.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\obj\Debug\P12-Convert_Money.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P12-Convert_Money\obj\Debug\P12-Convert_Money.pdb

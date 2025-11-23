@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\bin\Debug\P10-Rectangle_Area.exe.config
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\bin\Debug\P10-Rectangle_Area.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\bin\Debug\P10-Rectangle_Area.pdb
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\obj\Debug\P10-Rectangle_Area.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\obj\Debug\P10-Rectangle_Area.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\obj\Debug\P10-Rectangle_Area.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P10-Rectangle_Area\obj\Debug\P10-Rectangle_Area.pdb

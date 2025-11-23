@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\bin\Debug\P07-Convert_USD_BGN.exe.config
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\bin\Debug\P07-Convert_USD_BGN.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\bin\Debug\P07-Convert_USD_BGN.pdb
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\obj\Debug\P07-Convert_USD_BGN.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\obj\Debug\P07-Convert_USD_BGN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\obj\Debug\P07-Convert_USD_BGN.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P07-Convert_USD_BGN\obj\Debug\P07-Convert_USD_BGN.pdb

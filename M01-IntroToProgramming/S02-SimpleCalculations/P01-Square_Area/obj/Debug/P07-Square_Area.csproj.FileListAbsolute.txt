@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\bin\Debug\P07-Square_Area.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\bin\Debug\P07-Square_Area.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\bin\Debug\P07-Square_Area.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\obj\Debug\P07-Square_Area.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\obj\Debug\P07-Square_Area.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\obj\Debug\P07-Square_Area.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P07-Square_Area\obj\Debug\P07-Square_Area.pdb

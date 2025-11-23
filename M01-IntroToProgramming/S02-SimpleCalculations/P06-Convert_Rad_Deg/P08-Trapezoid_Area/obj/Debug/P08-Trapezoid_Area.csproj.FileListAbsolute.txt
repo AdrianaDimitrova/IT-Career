@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\bin\Debug\P08-Trapezoid_Area.exe.config
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\bin\Debug\P08-Trapezoid_Area.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\bin\Debug\P08-Trapezoid_Area.pdb
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\obj\Debug\P08-Trapezoid_Area.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\obj\Debug\P08-Trapezoid_Area.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\obj\Debug\P08-Trapezoid_Area.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P08-Trapezoid_Area\obj\Debug\P08-Trapezoid_Area.pdb

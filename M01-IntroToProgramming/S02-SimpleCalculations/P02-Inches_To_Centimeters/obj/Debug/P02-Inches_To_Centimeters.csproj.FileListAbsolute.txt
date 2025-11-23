@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\bin\Debug\P02-Inches_To_Centimeters.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\bin\Debug\P02-Inches_To_Centimeters.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\bin\Debug\P02-Inches_To_Centimeters.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\obj\Debug\P02-Inches_To_Centimeters.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\obj\Debug\P02-Inches_To_Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\obj\Debug\P02-Inches_To_Centimeters.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S02-SimpleCalculations\P02-Inches_To_Centimeters\obj\Debug\P02-Inches_To_Centimeters.pdb

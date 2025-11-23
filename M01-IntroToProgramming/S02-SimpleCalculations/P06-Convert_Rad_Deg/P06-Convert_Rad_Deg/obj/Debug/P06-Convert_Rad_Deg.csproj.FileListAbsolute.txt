@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\bin\Debug\P06-Convert_Rad_Deg.exe.config
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\bin\Debug\P06-Convert_Rad_Deg.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\bin\Debug\P06-Convert_Rad_Deg.pdb
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\obj\Debug\P06-Convert_Rad_Deg.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\obj\Debug\P06-Convert_Rad_Deg.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\obj\Debug\P06-Convert_Rad_Deg.exe
+C:\Users\Lenovo\Desktop\Repo\IT-Career\M01- Intro to programming\S02-SimpleCalculations\P06-Convert_Rad_Deg\P06-Convert_Rad_Deg\obj\Debug\P06-Convert_Rad_Deg.pdb

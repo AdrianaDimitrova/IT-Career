@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD5F982-5CEB-412E-A78F-869424D2110C}|P12-Convert_Money\\P12-Convert_Money.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p12-convert_money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD5F982-5CEB-412E-A78F-869424D2110C}|P12-Convert_Money\\P12-Convert_Money.csproj|solutionrelative:p12-convert_money\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5590BF20-4F22-4D35-A299-C244C7C1D193}|P11-Rectangle_Area\\P11-Rectangle_Area.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p11-rectangle_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5590BF20-4F22-4D35-A299-C244C7C1D193}|P11-Rectangle_Area\\P11-Rectangle_Area.csproj|solutionrelative:p11-rectangle_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345A30E-23DC-4174-9D2D-605BA07636EA}|P10-Rectangle_Area\\P10-Rectangle_Area.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p10-rectangle_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D345A30E-23DC-4174-9D2D-605BA07636EA}|P10-Rectangle_Area\\P10-Rectangle_Area.csproj|solutionrelative:p10-rectangle_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7527B27D-6525-452E-8DAC-3E32AFB22AA0}|P09-Area_Perimeter\\P09-Area_Perimeter.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p09-area_perimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7527B27D-6525-452E-8DAC-3E32AFB22AA0}|P09-Area_Perimeter\\P09-Area_Perimeter.csproj|solutionrelative:p09-area_perimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D345A30E-23DC-4174-9D2D-605BA07636EA}|P10-Rectangle_Area\\P10-Rectangle_Area.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p10-rectangle_area\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D345A30E-23DC-4174-9D2D-605BA07636EA}|P10-Rectangle_Area\\P10-Rectangle_Area.csproj|solutionrelative:p10-rectangle_area\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE3290A-9A83-4A0A-AC4F-501538787D41}|P08-Trapezoid_Area\\P08-Trapezoid_Area.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p08-trapezoid_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE3290A-9A83-4A0A-AC4F-501538787D41}|P08-Trapezoid_Area\\P08-Trapezoid_Area.csproj|solutionrelative:p08-trapezoid_area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8ADC62-C1B3-4111-9674-329BBB12C51E}|P07-Convert_USD_BGN\\P07-Convert_USD_BGN.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p07-convert_usd_bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8ADC62-C1B3-4111-9674-329BBB12C51E}|P07-Convert_USD_BGN\\P07-Convert_USD_BGN.csproj|solutionrelative:p07-convert_usd_bgn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BECC175-20C5-4AC6-B1EA-BE0362018CD8}|P06-Convert_Rad_Deg\\P06-Convert_Rad_Deg.csproj|c:\\users\\lenovo\\desktop\\repo\\it-career\\m01- intro to programming\\s02-simplecalculations\\p06-convert_rad_deg\\p06-convert_rad_deg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BECC175-20C5-4AC6-B1EA-BE0362018CD8}|P06-Convert_Rad_Deg\\P06-Convert_Rad_Deg.csproj|solutionrelative:p06-convert_rad_deg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P12-Convert_Money\\Program.cs",
+              "RelativeDocumentMoniker": "P12-Convert_Money\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P12-Convert_Money\\Program.cs",
+              "RelativeToolTip": "P12-Convert_Money\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:54:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P11-Rectangle_Area\\Program.cs",
+              "RelativeDocumentMoniker": "P11-Rectangle_Area\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P11-Rectangle_Area\\Program.cs",
+              "RelativeToolTip": "P11-Rectangle_Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:30:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P10-Rectangle_Area\\App.config",
+              "RelativeDocumentMoniker": "P10-Rectangle_Area\\App.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P10-Rectangle_Area\\App.config",
+              "RelativeToolTip": "P10-Rectangle_Area\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-23T09:17:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P10-Rectangle_Area\\Program.cs",
+              "RelativeDocumentMoniker": "P10-Rectangle_Area\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P10-Rectangle_Area\\Program.cs",
+              "RelativeToolTip": "P10-Rectangle_Area\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:15:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P09-Area_Perimeter\\Program.cs",
+              "RelativeDocumentMoniker": "P09-Area_Perimeter\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P09-Area_Perimeter\\Program.cs",
+              "RelativeToolTip": "P09-Area_Perimeter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:09:40.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P08-Trapezoid_Area\\Program.cs",
+              "RelativeDocumentMoniker": "P08-Trapezoid_Area\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P08-Trapezoid_Area\\Program.cs",
+              "RelativeToolTip": "P08-Trapezoid_Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:05:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P07-Convert_USD_BGN\\Program.cs",
+              "RelativeDocumentMoniker": "P07-Convert_USD_BGN\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P07-Convert_USD_BGN\\Program.cs",
+              "RelativeToolTip": "P07-Convert_USD_BGN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:56:10.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P06-Convert_Rad_Deg\\Program.cs",
+              "RelativeDocumentMoniker": "P06-Convert_Rad_Deg\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Repo\\IT-Career\\M01- Intro to programming\\S02-SimpleCalculations\\P06-Convert_Rad_Deg\\P06-Convert_Rad_Deg\\Program.cs",
+              "RelativeToolTip": "P06-Convert_Rad_Deg\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T08:48:51.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
