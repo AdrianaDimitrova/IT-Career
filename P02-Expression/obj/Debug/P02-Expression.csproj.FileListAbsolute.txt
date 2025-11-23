@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\bin\Debug\P02-Expression.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\bin\Debug\P02-Expression.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\bin\Debug\P02-Expression.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\obj\Debug\P02-Expression.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\obj\Debug\P02-Expression.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\obj\Debug\P02-Expression.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P02-Expression\obj\Debug\P02-Expression.pdb

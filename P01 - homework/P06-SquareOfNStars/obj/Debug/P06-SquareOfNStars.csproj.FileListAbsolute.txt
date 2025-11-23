@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\bin\Debug\P06-SquareOfNStars.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\bin\Debug\P06-SquareOfNStars.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\bin\Debug\P06-SquareOfNStars.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\obj\Debug\P06-SquareOfNStars.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\obj\Debug\P06-SquareOfNStars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\obj\Debug\P06-SquareOfNStars.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\P01 - homework\P06-SquareOfNStars\obj\Debug\P06-SquareOfNStars.pdb

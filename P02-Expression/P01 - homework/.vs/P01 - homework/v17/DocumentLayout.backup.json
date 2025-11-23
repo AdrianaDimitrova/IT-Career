@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DF2B1C-45B9-4B19-8620-D50FBC38743F}|P06-SquareOfNStars\\P06-SquareOfNStars.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\p01 - homework\\p06-squareofnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DF2B1C-45B9-4B19-8620-D50FBC38743F}|P06-SquareOfNStars\\P06-SquareOfNStars.csproj|solutionrelative:p06-squareofnstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F916C811-9226-4A3E-97AB-1465FC1B6620}|P04 - RectangleSquare\\P04 - RectangleSquare.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\p01 - homework\\p04 - rectanglesquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F916C811-9226-4A3E-97AB-1465FC1B6620}|P04 - RectangleSquare\\P04 - RectangleSquare.csproj|solutionrelative:p04 - rectanglesquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DBB862-E84C-4682-A328-162E752C63A1}|P05-TriangleOf55Stars\\P05-TriangleOf55Stars.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\p01 - homework\\p05-triangleof55stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DBB862-E84C-4682-A328-162E752C63A1}|P05-TriangleOf55Stars\\P05-TriangleOf55Stars.csproj|solutionrelative:p05-triangleof55stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26557484-CE3D-4D49-82E0-DB4628535DCA}|P03-Nums1T20\\P03-Nums1T20.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\p01 - homework\\p03-nums1t20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26557484-CE3D-4D49-82E0-DB4628535DCA}|P03-Nums1T20\\P03-Nums1T20.csproj|solutionrelative:p03-nums1t20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D806361-997F-4AE0-8255-BC2D69EB4EBA}|P02-Expression\\P02-Expression.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\p01 - homework\\p02-expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D806361-997F-4AE0-8255-BC2D69EB4EBA}|P02-Expression\\P02-Expression.csproj|solutionrelative:p02-expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6A4463-0B2A-4ADF-9175-E30CBA323830}|P01 - homework\\P01 - homework.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\p01 - homework\\p01 - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6A4463-0B2A-4ADF-9175-E30CBA323830}|P01 - homework\\P01 - homework.csproj|solutionrelative:p01 - homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P06-SquareOfNStars\\Program.cs",
+              "RelativeDocumentMoniker": "P06-SquareOfNStars\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P06-SquareOfNStars\\Program.cs",
+              "RelativeToolTip": "P06-SquareOfNStars\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:52:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P04 - RectangleSquare\\Program.cs",
+              "RelativeDocumentMoniker": "P04 - RectangleSquare\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P04 - RectangleSquare\\Program.cs",
+              "RelativeToolTip": "P04 - RectangleSquare\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:49:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P05-TriangleOf55Stars\\Program.cs",
+              "RelativeDocumentMoniker": "P05-TriangleOf55Stars\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P05-TriangleOf55Stars\\Program.cs",
+              "RelativeToolTip": "P05-TriangleOf55Stars\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:38:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P03-Nums1T20\\Program.cs",
+              "RelativeDocumentMoniker": "P03-Nums1T20\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P03-Nums1T20\\Program.cs",
+              "RelativeToolTip": "P03-Nums1T20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:36:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P02-Expression\\Program.cs",
+              "RelativeDocumentMoniker": "P02-Expression\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P02-Expression\\Program.cs",
+              "RelativeToolTip": "P02-Expression\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:28:26.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P01 - homework\\Program.cs",
+              "RelativeDocumentMoniker": "P01 - homework\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\P01 - homework\\P01 - homework\\Program.cs",
+              "RelativeToolTip": "P01 - homework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T17:23:09.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
