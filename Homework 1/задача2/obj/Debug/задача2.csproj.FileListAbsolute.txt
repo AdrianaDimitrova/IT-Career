@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\bin\Debug\задача2.exe.config
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\bin\Debug\задача2.exe
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\bin\Debug\задача2.pdb
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\obj\Debug\задача2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\obj\Debug\задача2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\obj\Debug\задача2.exe
+C:\Users\Lenovo\Desktop\Информатика\Homework 1\задача2\obj\Debug\задача2.pdb

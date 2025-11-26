@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 1", "Homework 1\Homework 1.csproj", "{2B6D3A69-EF1C-42E2-85B4-85672B26EDB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задача2", "задача2\задача2.csproj", "{CCE3023B-AC1E-46BE-B26C-63E52E9393BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задача3", "задача3\задача3.csproj", "{AFA7F778-DD77-4DE2-9470-E20289AFCE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6D3A69-EF1C-42E2-85B4-85672B26EDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6D3A69-EF1C-42E2-85B4-85672B26EDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6D3A69-EF1C-42E2-85B4-85672B26EDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6D3A69-EF1C-42E2-85B4-85672B26EDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE3023B-AC1E-46BE-B26C-63E52E9393BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE3023B-AC1E-46BE-B26C-63E52E9393BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE3023B-AC1E-46BE-B26C-63E52E9393BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE3023B-AC1E-46BE-B26C-63E52E9393BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA7F778-DD77-4DE2-9470-E20289AFCE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA7F778-DD77-4DE2-9470-E20289AFCE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA7F778-DD77-4DE2-9470-E20289AFCE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA7F778-DD77-4DE2-9470-E20289AFCE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FAE1DBC-6B00-4347-9A9A-9D3CDCD2149A}
+	EndGlobalSection
+EndGlobal
