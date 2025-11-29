@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\bin\Debug\P07-ThreeEqualNumbers.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\bin\Debug\P07-ThreeEqualNumbers.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\bin\Debug\P07-ThreeEqualNumbers.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\obj\Debug\P07-ThreeEqualNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\obj\Debug\P07-ThreeEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\obj\Debug\P07-ThreeEqualNumbers.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P07-ThreeEqualNumbers\obj\Debug\P07-ThreeEqualNumbers.pdb

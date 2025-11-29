@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\bin\Debug\P09-SmallShop.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\bin\Debug\P09-SmallShop.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\bin\Debug\P09-SmallShop.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\obj\Debug\P09-SmallShop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\obj\Debug\P09-SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\obj\Debug\P09-SmallShop.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-SmallShop\obj\Debug\P09-SmallShop.pdb

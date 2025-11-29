@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\bin\Debug\P09-FigureArea.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\bin\Debug\P09-FigureArea.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\bin\Debug\P09-FigureArea.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\obj\Debug\P09-FigureArea.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\obj\Debug\P09-FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\obj\Debug\P09-FigureArea.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P09-FigureArea\obj\Debug\P09-FigureArea.pdb

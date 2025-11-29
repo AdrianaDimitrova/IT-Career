@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\bin\Debug\P04-SameWords.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\bin\Debug\P04-SameWords.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\bin\Debug\P04-SameWords.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\obj\Debug\P05-SameWords.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\obj\Debug\P05-SameWords.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\obj\Debug\P04-SameWords.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P04-SameWords\obj\Debug\P04-SameWords.pdb

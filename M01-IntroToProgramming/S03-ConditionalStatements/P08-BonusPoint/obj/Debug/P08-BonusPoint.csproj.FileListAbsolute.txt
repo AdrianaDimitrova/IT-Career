@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\bin\Debug\P08-BonusPoint.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\bin\Debug\P08-BonusPoint.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\bin\Debug\P08-BonusPoint.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\obj\Debug\P08-BonusPoint.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\obj\Debug\P08-BonusPoint.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\obj\Debug\P08-BonusPoint.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S03-ConditionalStatements\P08-BonusPoint\obj\Debug\P08-BonusPoint.pdb
