@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D709C9-1624-40EC-B925-49737EE8D31F}|P14-SumDigitsOfNumber\\P14-SumDigitsOfNumber.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p14-sumdigitsofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D709C9-1624-40EC-B925-49737EE8D31F}|P14-SumDigitsOfNumber\\P14-SumDigitsOfNumber.csproj|solutionrelative:p14-sumdigitsofnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633AA9E3-B1B9-48D1-82BE-3BA3CFE1DBFB}|P13-NumberInRange1_100\\P13-NumberInRange1_100.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p13-numberinrange1_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633AA9E3-B1B9-48D1-82BE-3BA3CFE1DBFB}|P13-NumberInRange1_100\\P13-NumberInRange1_100.csproj|solutionrelative:p13-numberinrange1_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711E4D3C-75DA-4712-BBD1-ADFCBEFB0960}|P12- ChristmasTree\\P12- ChristmasTree.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p12- christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711E4D3C-75DA-4712-BBD1-ADFCBEFB0960}|P12- ChristmasTree\\P12- ChristmasTree.csproj|solutionrelative:p12- christmastree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA19435-1318-4A4A-98CF-3709516999D1}|\u0437\u0430\u0434\u0430\u0447\u0430\\\u0437\u0430\u0434\u0430\u0447\u0430.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\\u0437\u0430\u0434\u0430\u0447\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA19435-1318-4A4A-98CF-3709516999D1}|\u0437\u0430\u0434\u0430\u0447\u0430\\\u0437\u0430\u0434\u0430\u0447\u0430.csproj|solutionrelative:\u0437\u0430\u0434\u0430\u0447\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA75108-B683-44EB-920E-91268E3C24A2}|P11-TriangleOfDollar\\P11-TriangleOfDollar.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p11-triangleofdollar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA75108-B683-44EB-920E-91268E3C24A2}|P11-TriangleOfDollar\\P11-TriangleOfDollar.csproj|solutionrelative:p11-triangleofdollar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711E3903-0039-495D-BDA4-2BFDD248A5DD}|P10-RectangleOf10x10Stars\\P10-RectangleOf10x10Stars.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p10-rectangleof10x10stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711E3903-0039-495D-BDA4-2BFDD248A5DD}|P10-RectangleOf10x10Stars\\P10-RectangleOf10x10Stars.csproj|solutionrelative:p10-rectangleof10x10stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D971F-B1DE-4206-BFDB-993AAAE26B91}|P09-EqualCouples\\P09-EqualCouples.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p09-equalcouples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D971F-B1DE-4206-BFDB-993AAAE26B91}|P09-EqualCouples\\P09-EqualCouples.csproj|solutionrelative:p09-equalcouples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6BDB1-8FC2-4DDC-9631-1C4ECE0DEF6A}|P08-EvenOddSums\\P08-EvenOddSums.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p08-evenoddsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6BDB1-8FC2-4DDC-9631-1C4ECE0DEF6A}|P08-EvenOddSums\\P08-EvenOddSums.csproj|solutionrelative:p08-evenoddsums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA45A9C-BEA9-4946-935D-BD773FE4B818}|P06-LeftRightSum\\P06-LeftRightSum.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p06-leftrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA45A9C-BEA9-4946-935D-BD773FE4B818}|P06-LeftRightSum\\P06-LeftRightSum.csproj|solutionrelative:p06-leftrightsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55410E3-0DFF-4C7D-98A8-E9F1E97FD500}|P06- MaxNumber\\P06- MaxNumber.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p06- maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55410E3-0DFF-4C7D-98A8-E9F1E97FD500}|P06- MaxNumber\\P06- MaxNumber.csproj|solutionrelative:p06- maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD7F640-E8E3-421D-A013-3FD84B0EB918}|P05-SumOfNumbers\\P05-SumOfNumbers.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p05-sumofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD7F640-E8E3-421D-A013-3FD84B0EB918}|P05-SumOfNumbers\\P05-SumOfNumbers.csproj|solutionrelative:p05-sumofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB7B66B-1BB4-450D-A54E-672F22F39F97}|P05-LatinLetters\\P05-LatinLetters.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p05-latinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB7B66B-1BB4-450D-A54E-672F22F39F97}|P05-LatinLetters\\P05-LatinLetters.csproj|solutionrelative:p05-latinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCF5293-F05D-4386-A0A8-947A46E68124}|P02-Numbers1To100\\P02-Numbers1To100.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p02-numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCF5293-F05D-4386-A0A8-947A46E68124}|P02-Numbers1To100\\P02-Numbers1To100.csproj|solutionrelative:p02-numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256CF6A-7CDA-4843-981C-BCE3FDE438CE}|P03-NumbersEnding7\\P03-NumbersEnding7.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p03-numbersending7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256CF6A-7CDA-4843-981C-BCE3FDE438CE}|P03-NumbersEnding7\\P03-NumbersEnding7.csproj|solutionrelative:p03-numbersending7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A0E6-8F4C-4D03-8CC6-FF286EEB2648}|P01-DemoLoops\\P01-DemoLoops.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s04-loops\\p01-demoloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A0E6-8F4C-4D03-8CC6-FF286EEB2648}|P01-DemoLoops\\P01-DemoLoops.csproj|solutionrelative:p01-demoloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P14-SumDigitsOfNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P14-SumDigitsOfNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P14-SumDigitsOfNumber\\Program.cs",
+              "RelativeToolTip": "P14-SumDigitsOfNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:34:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P13-NumberInRange1_100\\Program.cs",
+              "RelativeDocumentMoniker": "P13-NumberInRange1_100\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P13-NumberInRange1_100\\Program.cs",
+              "RelativeToolTip": "P13-NumberInRange1_100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T10:14:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P12- ChristmasTree\\Program.cs",
+              "RelativeDocumentMoniker": "P12- ChristmasTree\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P12- ChristmasTree\\Program.cs",
+              "RelativeToolTip": "P12- ChristmasTree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:58:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\\u0437\u0430\u0434\u0430\u0447\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "\u0437\u0430\u0434\u0430\u0447\u0430\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\\u0437\u0430\u0434\u0430\u0447\u0430\\Program.cs",
+              "RelativeToolTip": "\u0437\u0430\u0434\u0430\u0447\u0430\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:44:38.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P11-TriangleOfDollar\\Program.cs",
+              "RelativeDocumentMoniker": "P11-TriangleOfDollar\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P11-TriangleOfDollar\\Program.cs",
+              "RelativeToolTip": "P11-TriangleOfDollar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:38:53.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P10-RectangleOf10x10Stars\\Program.cs",
+              "RelativeDocumentMoniker": "P10-RectangleOf10x10Stars\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P10-RectangleOf10x10Stars\\Program.cs",
+              "RelativeToolTip": "P10-RectangleOf10x10Stars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:31:54.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P09-EqualCouples\\Program.cs",
+              "RelativeDocumentMoniker": "P09-EqualCouples\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P09-EqualCouples\\Program.cs",
+              "RelativeToolTip": "P09-EqualCouples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T09:04:07.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P08-EvenOddSums\\Program.cs",
+              "RelativeDocumentMoniker": "P08-EvenOddSums\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P08-EvenOddSums\\Program.cs",
+              "RelativeToolTip": "P08-EvenOddSums\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:51:15.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P06-LeftRightSum\\Program.cs",
+              "RelativeDocumentMoniker": "P06-LeftRightSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P06-LeftRightSum\\Program.cs",
+              "RelativeToolTip": "P06-LeftRightSum\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:31:43.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P06- MaxNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P06- MaxNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P06- MaxNumber\\Program.cs",
+              "RelativeToolTip": "P06- MaxNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:23:56.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P05-SumOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P05-SumOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P05-SumOfNumbers\\Program.cs",
+              "RelativeToolTip": "P05-SumOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:18:31.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P05-LatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "P05-LatinLetters\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P05-LatinLetters\\Program.cs",
+              "RelativeToolTip": "P05-LatinLetters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:07:29.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P03-NumbersEnding7\\Program.cs",
+              "RelativeDocumentMoniker": "P03-NumbersEnding7\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P03-NumbersEnding7\\Program.cs",
+              "RelativeToolTip": "P03-NumbersEnding7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T08:03:04.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P02-Numbers1To100\\Program.cs",
+              "RelativeDocumentMoniker": "P02-Numbers1To100\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P02-Numbers1To100\\Program.cs",
+              "RelativeToolTip": "P02-Numbers1To100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:59:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P01-DemoLoops\\Program.cs",
+              "RelativeDocumentMoniker": "P01-DemoLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S04-Loops\\P01-DemoLoops\\Program.cs",
+              "RelativeToolTip": "P01-DemoLoops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:37:58.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

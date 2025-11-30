@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\bin\Debug\P05-SumOfNumbers.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\bin\Debug\P05-SumOfNumbers.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\bin\Debug\P05-SumOfNumbers.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\obj\Debug\P05-SumOfNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\obj\Debug\P05-SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\obj\Debug\P05-SumOfNumbers.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P05-SumOfNumbers\obj\Debug\P05-SumOfNumbers.pdb

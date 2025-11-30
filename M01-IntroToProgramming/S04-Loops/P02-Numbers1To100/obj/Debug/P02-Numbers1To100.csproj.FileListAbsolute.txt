@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\bin\Debug\P02-Numbers1To100.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\bin\Debug\P02-Numbers1To100.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\bin\Debug\P02-Numbers1To100.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\obj\Debug\P02-Numbers1To100.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\obj\Debug\P02-Numbers1To100.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\obj\Debug\P02-Numbers1To100.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P02-Numbers1To100\obj\Debug\P02-Numbers1To100.pdb

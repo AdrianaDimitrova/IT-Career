@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\bin\Debug\задача.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\bin\Debug\задача.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\bin\Debug\задача.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\obj\Debug\задача.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\obj\Debug\задача.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\obj\Debug\задача.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\задача\obj\Debug\задача.pdb

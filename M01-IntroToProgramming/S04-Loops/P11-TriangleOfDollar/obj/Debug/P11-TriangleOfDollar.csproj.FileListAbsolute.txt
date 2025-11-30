@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\bin\Debug\P11-TriangleOfDollar.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\bin\Debug\P11-TriangleOfDollar.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\bin\Debug\P11-TriangleOfDollar.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\obj\Debug\P11-TriangleOfDollar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\obj\Debug\P11-TriangleOfDollar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\obj\Debug\P11-TriangleOfDollar.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P11-TriangleOfDollar\obj\Debug\P11-TriangleOfDollar.pdb

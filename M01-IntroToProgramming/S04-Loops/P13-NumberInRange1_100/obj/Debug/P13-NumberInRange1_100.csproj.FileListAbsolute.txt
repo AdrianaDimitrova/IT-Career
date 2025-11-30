@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\bin\Debug\P13-NumberInRange1_100.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\bin\Debug\P13-NumberInRange1_100.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\bin\Debug\P13-NumberInRange1_100.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\obj\Debug\P13-NumberInRange1_100.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\obj\Debug\P13-NumberInRange1_100.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\obj\Debug\P13-NumberInRange1_100.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P13-NumberInRange1_100\obj\Debug\P13-NumberInRange1_100.pdb

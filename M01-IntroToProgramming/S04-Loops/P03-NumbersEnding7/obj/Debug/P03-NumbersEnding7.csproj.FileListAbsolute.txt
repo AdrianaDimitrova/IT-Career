@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\bin\Debug\P03-NumbersEnding7.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\bin\Debug\P03-NumbersEnding7.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\bin\Debug\P03-NumbersEnding7.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\obj\Debug\P03-NumbersEnding7.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\obj\Debug\P03-NumbersEnding7.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\obj\Debug\P03-NumbersEnding7.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P03-NumbersEnding7\obj\Debug\P03-NumbersEnding7.pdb

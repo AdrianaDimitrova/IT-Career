@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\bin\Debug\P12- ChristmasTree.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\bin\Debug\P12- ChristmasTree.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\bin\Debug\P12- ChristmasTree.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\obj\Debug\P12- ChristmasTree.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\obj\Debug\P12- ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\obj\Debug\P12- ChristmasTree.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P12- ChristmasTree\obj\Debug\P12- ChristmasTree.pdb

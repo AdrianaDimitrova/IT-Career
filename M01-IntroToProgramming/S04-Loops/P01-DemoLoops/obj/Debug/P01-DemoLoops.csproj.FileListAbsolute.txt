@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\bin\Debug\P01-DemoLoops.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\bin\Debug\P01-DemoLoops.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\bin\Debug\P01-DemoLoops.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\obj\Debug\P01-DemoLoops.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\obj\Debug\P01-DemoLoops.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\obj\Debug\P01-DemoLoops.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P01-DemoLoops\obj\Debug\P01-DemoLoops.pdb

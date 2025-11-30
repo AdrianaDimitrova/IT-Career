@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\bin\Debug\P10-RectangleOf10x10Stars.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\bin\Debug\P10-RectangleOf10x10Stars.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\bin\Debug\P10-RectangleOf10x10Stars.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\obj\Debug\P10-RectangleOfNxNStars.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\obj\Debug\P10-RectangleOfNxNStars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\obj\Debug\P10-RectangleOf10x10Stars.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P10-RectangleOf10x10Stars\obj\Debug\P10-RectangleOf10x10Stars.pdb

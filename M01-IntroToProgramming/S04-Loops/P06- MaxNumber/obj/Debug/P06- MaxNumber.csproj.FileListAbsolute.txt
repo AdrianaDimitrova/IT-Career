@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\bin\Debug\P06- MaxNumber.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\bin\Debug\P06- MaxNumber.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\bin\Debug\P06- MaxNumber.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\obj\Debug\P06- MaxNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\obj\Debug\P06- MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\obj\Debug\P06- MaxNumber.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P06- MaxNumber\obj\Debug\P06- MaxNumber.pdb

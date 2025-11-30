@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\bin\Debug\P14-SumDigitsOfNumber.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\bin\Debug\P14-SumDigitsOfNumber.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\bin\Debug\P14-SumDigitsOfNumber.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\obj\Debug\P14-SumDigitsOfNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\obj\Debug\P14-SumDigitsOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\obj\Debug\P14-SumDigitsOfNumber.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P14-SumDigitsOfNumber\obj\Debug\P14-SumDigitsOfNumber.pdb

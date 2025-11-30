@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\bin\Debug\P08-EvenOddSums.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\bin\Debug\P08-EvenOddSums.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\bin\Debug\P08-EvenOddSums.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\obj\Debug\P08-EvenOddSums.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\obj\Debug\P08-EvenOddSums.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\obj\Debug\P08-EvenOddSums.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S04-Loops\P08-EvenOddSums\obj\Debug\P08-EvenOddSums.pdb
