@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P05-Palindroms\obj\Debug\P05-Palindroms.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P05-Palindroms\obj\Debug\P05-Palindroms.csproj.CoreCompileInputs.cache

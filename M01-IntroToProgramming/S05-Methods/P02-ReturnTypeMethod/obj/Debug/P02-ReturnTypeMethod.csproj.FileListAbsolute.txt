@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\bin\Debug\P02-ReturnTypeMethod.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\bin\Debug\P02-ReturnTypeMethod.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\bin\Debug\P02-ReturnTypeMethod.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\obj\Debug\P02-ReturnTypeMethod.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\obj\Debug\P02-ReturnTypeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\obj\Debug\P02-ReturnTypeMethod.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S05-Methods\P02-ReturnTypeMethod\obj\Debug\P02-ReturnTypeMethod.pdb

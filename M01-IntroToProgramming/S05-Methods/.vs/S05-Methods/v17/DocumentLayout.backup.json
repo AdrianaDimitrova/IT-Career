@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7EB428-76E8-4E65-A028-665DD527AAF6}|P05-Palindroms\\P05-Palindroms.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s05-methods\\p05-palindroms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7EB428-76E8-4E65-A028-665DD527AAF6}|P05-Palindroms\\P05-Palindroms.csproj|solutionrelative:p05-palindroms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11904BBC-271D-404C-9024-709158C7A8CC}|P04- PasswordValidator\\P04- PasswordValidator.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s05-methods\\p04- passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11904BBC-271D-404C-9024-709158C7A8CC}|P04- PasswordValidator\\P04- PasswordValidator.csproj|solutionrelative:p04- passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579EC01-B16F-4D13-B38B-5FB21CE17306}|P03-SmallestOfThreeNumbers\\P03-SmallestOfThreeNumbers.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s05-methods\\p03-smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579EC01-B16F-4D13-B38B-5FB21CE17306}|P03-SmallestOfThreeNumbers\\P03-SmallestOfThreeNumbers.csproj|solutionrelative:p03-smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2DAF76-0640-4DE3-81F8-643132977B04}|P02-ReturnTypeMethod\\P02-ReturnTypeMethod.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s05-methods\\p02-returntypemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2DAF76-0640-4DE3-81F8-643132977B04}|P02-ReturnTypeMethod\\P02-ReturnTypeMethod.csproj|solutionrelative:p02-returntypemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544AB6FA-CE36-4280-B58D-C897223F341A}|P01-VoidMethods\\P01-VoidMethods.csproj|c:\\users\\lenovo\\desktop\\it career\\m01- intro to programming\\s05-methods\\p01-voidmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544AB6FA-CE36-4280-B58D-C897223F341A}|P01-VoidMethods\\P01-VoidMethods.csproj|solutionrelative:p01-voidmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P05-Palindroms\\Program.cs",
+              "RelativeDocumentMoniker": "P05-Palindroms\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P05-Palindroms\\Program.cs",
+              "RelativeToolTip": "P05-Palindroms\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:38:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P04- PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "P04- PasswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P04- PasswordValidator\\Program.cs",
+              "RelativeToolTip": "P04- PasswordValidator\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:59:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P03-SmallestOfThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "P03-SmallestOfThreeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P03-SmallestOfThreeNumbers\\Program.cs",
+              "RelativeToolTip": "P03-SmallestOfThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:50:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P02-ReturnTypeMethod\\Program.cs",
+              "RelativeDocumentMoniker": "P02-ReturnTypeMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P02-ReturnTypeMethod\\Program.cs",
+              "RelativeToolTip": "P02-ReturnTypeMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:18:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P01-VoidMethods\\Program.cs",
+              "RelativeDocumentMoniker": "P01-VoidMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S05-Methods\\P01-VoidMethods\\Program.cs",
+              "RelativeToolTip": "P01-VoidMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T09:03:16.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
