@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\obj\Debug\P07-WinterNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\obj\Debug\P07-WinterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\bin\Debug\P06-WinterNumbers.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\bin\Debug\P06-WinterNumbers.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\bin\Debug\P06-WinterNumbers.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\obj\Debug\P06-WinterNumbers.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P06-WinterNumbers\obj\Debug\P06-WinterNumbers.pdb

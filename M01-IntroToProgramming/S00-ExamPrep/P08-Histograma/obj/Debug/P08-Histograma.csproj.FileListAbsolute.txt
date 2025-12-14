@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\bin\Debug\P08-Histograma.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\bin\Debug\P08-Histograma.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\bin\Debug\P08-Histograma.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\obj\Debug\P08-Histograma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\obj\Debug\P08-Histograma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\obj\Debug\P08-Histograma.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P08-Histograma\obj\Debug\P08-Histograma.pdb

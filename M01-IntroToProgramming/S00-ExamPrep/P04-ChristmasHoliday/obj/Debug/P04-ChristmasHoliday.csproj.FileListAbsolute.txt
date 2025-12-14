@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\bin\Debug\P04-ChristmasHoliday.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\bin\Debug\P04-ChristmasHoliday.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\bin\Debug\P04-ChristmasHoliday.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\obj\Debug\P04-ChristmasHoliday.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\obj\Debug\P04-ChristmasHoliday.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\obj\Debug\P04-ChristmasHoliday.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P04-ChristmasHoliday\obj\Debug\P04-ChristmasHoliday.pdb

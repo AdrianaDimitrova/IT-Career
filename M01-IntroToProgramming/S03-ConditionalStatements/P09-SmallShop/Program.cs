@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
+using System;
 public class Program
 {
     public static void Main(string[] args)
@@ -57,7 +58,7 @@ public class Program
                 }
                 else if (town == "Plovdiv")
                 {
-                    price = 1.50;
+                    price = 1.15;
                 }
                 else if (town == "Varna")
                 {

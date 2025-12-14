@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\bin\Debug\P11-Trip.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\bin\Debug\P11-Trip.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\bin\Debug\P11-Trip.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\obj\Debug\P11-Trip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\obj\Debug\P11-Trip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\obj\Debug\P11-Trip.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P11-Trip\obj\Debug\P11-Trip.pdb

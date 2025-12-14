@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\bin\Debug\P05-PizzaParty.exe.config
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\bin\Debug\P05-PizzaParty.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\bin\Debug\P05-PizzaParty.pdb
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\obj\Debug\P05-PizzaParty.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\obj\Debug\P05-PizzaParty.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\obj\Debug\P05-PizzaParty.exe
+C:\Users\Lenovo\Desktop\IT Career\M01- Intro to programming\S00-ExamPrep\P05-PizzaParty\obj\Debug\P05-PizzaParty.pdb

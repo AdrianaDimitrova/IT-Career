@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\IT Career\\M01- Intro to programming\\S02-SimpleCalculations\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-IntroToProgramming\\S02-SimpleCalculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E38701C-E099-4E3E-BA9A-EA2503BC5280}|P02-Inches_To_Centimeters\\P02-Inches_To_Centimeters.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-introtoprogramming\\s02-simplecalculations\\p02-inches_to_centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E38701C-E099-4E3E-BA9A-EA2503BC5280}|P02-Inches_To_Centimeters\\P02-Inches_To_Centimeters.csproj|solutionrelative:p02-inches_to_centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-IntroToProgramming\\S02-SimpleCalculations\\P02-Inches_To_Centimeters\\Program.cs",
+              "RelativeDocumentMoniker": "P02-Inches_To_Centimeters\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-IntroToProgramming\\S02-SimpleCalculations\\P02-Inches_To_Centimeters\\Program.cs",
+              "RelativeToolTip": "P02-Inches_To_Centimeters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:56:21.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
