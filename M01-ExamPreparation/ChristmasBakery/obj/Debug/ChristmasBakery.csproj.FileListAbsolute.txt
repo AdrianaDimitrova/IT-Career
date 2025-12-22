@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\bin\Debug\ChristmasBakery.exe.config
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\bin\Debug\ChristmasBakery.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\bin\Debug\ChristmasBakery.pdb
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\obj\Debug\ChristmasBakery.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\obj\Debug\ChristmasBakery.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\obj\Debug\ChristmasBakery.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasBakery\obj\Debug\ChristmasBakery.pdb

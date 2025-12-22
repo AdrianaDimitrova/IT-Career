@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\bin\Debug\ChristmasHoliday.exe.config
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\bin\Debug\ChristmasHoliday.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\bin\Debug\ChristmasHoliday.pdb
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\obj\Debug\ChristmasHoliday.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\obj\Debug\ChristmasHoliday.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\obj\Debug\ChristmasHoliday.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasHoliday\obj\Debug\ChristmasHoliday.pdb

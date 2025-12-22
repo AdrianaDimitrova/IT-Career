@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\bin\Debug\WinnerNumbers.exe.config
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\bin\Debug\WinnerNumbers.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\bin\Debug\WinnerNumbers.pdb
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\obj\Debug\WinnerNumbers.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\obj\Debug\WinnerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\obj\Debug\WinnerNumbers.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\WinnerNumbers\obj\Debug\WinnerNumbers.pdb

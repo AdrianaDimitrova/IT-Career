@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\bin\Debug\ChristmasPresents.exe.config
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\bin\Debug\ChristmasPresents.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\bin\Debug\ChristmasPresents.pdb
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\obj\Debug\ChristmasPresents.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\obj\Debug\ChristmasPresents.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\obj\Debug\ChristmasPresents.exe
+C:\Users\Lenovo\Desktop\Информатика\ConsoleApp29\ChristmasPresents\obj\Debug\ChristmasPresents.pdb
