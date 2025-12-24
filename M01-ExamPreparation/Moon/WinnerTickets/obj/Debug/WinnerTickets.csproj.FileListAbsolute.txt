@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\bin\Debug\WinnerTickets.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\bin\Debug\WinnerTickets.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\bin\Debug\WinnerTickets.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\obj\Debug\WinnerTickets.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\obj\Debug\WinnerTickets.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\obj\Debug\WinnerTickets.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\WinnerTickets\obj\Debug\WinnerTickets.pdb

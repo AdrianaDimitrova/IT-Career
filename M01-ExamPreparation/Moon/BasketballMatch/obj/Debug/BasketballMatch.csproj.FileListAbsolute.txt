@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\bin\Debug\BasketballMatch.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\bin\Debug\BasketballMatch.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\bin\Debug\BasketballMatch.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\obj\Debug\BasketballMatch.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\obj\Debug\BasketballMatch.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\obj\Debug\BasketballMatch.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\BasketballMatch\obj\Debug\BasketballMatch.pdb

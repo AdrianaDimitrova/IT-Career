@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\bin\Debug\DeerOfSanta.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\bin\Debug\DeerOfSanta.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\bin\Debug\DeerOfSanta.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\obj\Debug\DeerOfSanta.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\obj\Debug\DeerOfSanta.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\obj\Debug\DeerOfSanta.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Moon\DeerOfSanta\obj\Debug\DeerOfSanta.pdb
