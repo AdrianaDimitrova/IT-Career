@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\bin\Debug\Repainting.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\bin\Debug\Repainting.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\bin\Debug\Repainting.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\obj\Debug\Repainting.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\obj\Debug\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\obj\Debug\Repainting.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Repainting\obj\Debug\Repainting.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\bin\Debug\Easter lunch.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\bin\Debug\Easter lunch.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\bin\Debug\Easter lunch.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\obj\Debug\Easter lunch.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\obj\Debug\Easter lunch.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\obj\Debug\Easter lunch.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Easter lunch\obj\Debug\Easter lunch.pdb

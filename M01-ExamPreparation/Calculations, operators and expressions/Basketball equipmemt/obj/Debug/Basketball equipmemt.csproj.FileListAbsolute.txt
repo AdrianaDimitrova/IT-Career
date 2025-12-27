@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\bin\Debug\Basketball equipmemt.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\bin\Debug\Basketball equipmemt.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\bin\Debug\Basketball equipmemt.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\obj\Debug\Basketball equipmemt.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\obj\Debug\Basketball equipmemt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\obj\Debug\Basketball equipmemt.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Basketball equipmemt\obj\Debug\Basketball equipmemt.pdb

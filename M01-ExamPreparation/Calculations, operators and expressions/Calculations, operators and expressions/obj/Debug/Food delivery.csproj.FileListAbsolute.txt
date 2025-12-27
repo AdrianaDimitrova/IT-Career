@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\bin\Debug\Calculations, operators and expressions.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\bin\Debug\Calculations, operators and expressions.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\bin\Debug\Calculations, operators and expressions.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\obj\Debug\Food delivery.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\obj\Debug\Food delivery.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\obj\Debug\Calculations, operators and expressions.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Calculations, operators and expressions\obj\Debug\Calculations, operators and expressions.pdb

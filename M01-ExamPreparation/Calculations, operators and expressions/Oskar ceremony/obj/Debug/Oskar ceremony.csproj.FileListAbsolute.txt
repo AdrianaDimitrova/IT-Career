@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\bin\Debug\Oskar ceremony.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\bin\Debug\Oskar ceremony.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\bin\Debug\Oskar ceremony.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\obj\Debug\Oskar ceremony.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\obj\Debug\Oskar ceremony.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\obj\Debug\Oskar ceremony.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Calculations, operators and expressions\Oskar ceremony\obj\Debug\Oskar ceremony.pdb
