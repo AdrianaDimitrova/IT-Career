@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\bin\Debug\Godzila VS KingKong.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\bin\Debug\Godzila VS KingKong.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\bin\Debug\Godzila VS KingKong.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\obj\Debug\Godzila VS KingKong.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\obj\Debug\Godzila VS KingKong.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\obj\Debug\Godzila VS KingKong.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Godzila VS KingKong\obj\Debug\Godzila VS KingKong.pdb

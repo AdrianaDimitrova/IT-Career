@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1913FCEF-903E-450F-A71A-16A11DB89CD2}|Multiplication by 2\\Multiplication by 2.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\multiplication by 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1913FCEF-903E-450F-A71A-16A11DB89CD2}|Multiplication by 2\\Multiplication by 2.csproj|solutionrelative:multiplication by 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{7F7E6AB2-B56A-4715-B61B-16973CCCCD6E}|School camp\\School camp.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\school camp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{7F7E6AB2-B56A-4715-B61B-16973CCCCD6E}|School camp\\School camp.csproj|solutionrelative:school camp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{7F7E6AB2-B56A-4715-B61B-16973CCCCD6E}|School camp\\School camp.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\school camp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{7F7E6AB2-B56A-4715-B61B-16973CCCCD6E}|School camp\\School camp.csproj|solutionrelative:school camp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C197370-9CFC-40F7-B947-56027CBC8AD5}|Fuel tank- part2\\Fuel tank- part2.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\fuel tank- part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C197370-9CFC-40F7-B947-56027CBC8AD5}|Fuel tank- part2\\Fuel tank- part2.csproj|solutionrelative:fuel tank- part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57A54DC-3928-48B6-B5C7-54CAB9CE9630}|Pets\\Pets.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57A54DC-3928-48B6-B5C7-54CAB9CE9630}|Pets\\Pets.csproj|solutionrelative:pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85528C7-76EA-4DBE-8AC2-0F8676F48807}|Driver\\Driver.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\driver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85528C7-76EA-4DBE-8AC2-0F8676F48807}|Driver\\Driver.csproj|solutionrelative:driver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A42790B4-F8F1-4869-8812-1D6C73886B41}|Rented car\\Rented car.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\rented car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A42790B4-F8F1-4869-8812-1D6C73886B41}|Rented car\\Rented car.csproj|solutionrelative:rented car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D087BB26-38BD-401D-B1B7-E10BA4793002}|Florist\u0027s\\Florist\u0027s.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\florist\u0027s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D087BB26-38BD-401D-B1B7-E10BA4793002}|Florist\u0027s\\Florist\u0027s.csproj|solutionrelative:florist\u0027s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0C5277-1F61-4665-A354-DEB8249D1951}|Computer hall\\Computer hall.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\computer hall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0C5277-1F61-4665-A354-DEB8249D1951}|Computer hall\\Computer hall.csproj|solutionrelative:computer hall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D9398C-3F98-44DD-BEDC-7CD879419E4F}|Competition\\Competition.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\competition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D9398C-3F98-44DD-BEDC-7CD879419E4F}|Competition\\Competition.csproj|solutionrelative:competition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF366FC-481B-45D7-AB54-7E97882B8BEA}|Fuel tank\\Fuel tank.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\checks\\fuel tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF366FC-481B-45D7-AB54-7E97882B8BEA}|Fuel tank\\Fuel tank.csproj|solutionrelative:fuel tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2A33D6-5F83-4D17-8730-E6E78927EF32}|Firm\\Firm.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\firm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2A33D6-5F83-4D17-8730-E6E78927EF32}|Firm\\Firm.csproj|solutionrelative:firm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A90A086-35DE-4CCA-A5A4-94C5C4DEE10E}|Shopping\\Shopping.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A90A086-35DE-4CCA-A5A4-94C5C4DEE10E}|Shopping\\Shopping.csproj|solutionrelative:shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CD64B3-26D9-43DA-8FC3-23F870DB54A8}|Godzila VS KingKong\\Godzila VS KingKong.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\godzila vs kingkong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CD64B3-26D9-43DA-8FC3-23F870DB54A8}|Godzila VS KingKong\\Godzila VS KingKong.csproj|solutionrelative:godzila vs kingkong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C5DF8E-A094-4BE5-B2F8-66A5CC59F1DA}|Photo day\\Photo day.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\photo day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C5DF8E-A094-4BE5-B2F8-66A5CC59F1DA}|Photo day\\Photo day.csproj|solutionrelative:photo day\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Multiplication by 2\\Program.cs",
+              "RelativeDocumentMoniker": "Multiplication by 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Multiplication by 2\\Program.cs",
+              "RelativeToolTip": "Multiplication by 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:33:25.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\School camp\\Program.cs",
+              "RelativeDocumentMoniker": "School camp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\School camp\\Program.cs",
+              "RelativeToolTip": "School camp\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:27:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\School camp\\Program.cs",
+              "RelativeDocumentMoniker": "School camp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\School camp\\Program.cs",
+              "RelativeToolTip": "School camp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:58:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Fuel tank- part2\\Program.cs",
+              "RelativeDocumentMoniker": "Fuel tank- part2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Fuel tank- part2\\Program.cs",
+              "RelativeToolTip": "Fuel tank- part2\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:30:05.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Pets\\Program.cs",
+              "RelativeDocumentMoniker": "Pets\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Pets\\Program.cs",
+              "RelativeToolTip": "Pets\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:17:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Driver\\Program.cs",
+              "RelativeDocumentMoniker": "Driver\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Driver\\Program.cs",
+              "RelativeToolTip": "Driver\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:31:52.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Rented car\\Program.cs",
+              "RelativeDocumentMoniker": "Rented car\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Rented car\\Program.cs",
+              "RelativeToolTip": "Rented car\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:59:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Florist\u0027s\\Program.cs",
+              "RelativeDocumentMoniker": "Florist\u0027s\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Florist\u0027s\\Program.cs",
+              "RelativeToolTip": "Florist\u0027s\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:02:29.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Computer hall\\Program.cs",
+              "RelativeDocumentMoniker": "Computer hall\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Computer hall\\Program.cs",
+              "RelativeToolTip": "Computer hall\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:30:59.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Competition\\Program.cs",
+              "RelativeDocumentMoniker": "Competition\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Competition\\Program.cs",
+              "RelativeToolTip": "Competition\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:03:00.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Fuel tank\\Program.cs",
+              "RelativeDocumentMoniker": "Fuel tank\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Fuel tank\\Program.cs",
+              "RelativeToolTip": "Fuel tank\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T16:43:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Firm\\Program.cs",
+              "RelativeDocumentMoniker": "Firm\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Firm\\Program.cs",
+              "RelativeToolTip": "Firm\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:45:42.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Shopping\\Program.cs",
+              "RelativeToolTip": "Shopping\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T13:43:42.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Godzila VS KingKong\\Program.cs",
+              "RelativeDocumentMoniker": "Godzila VS KingKong\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Godzila VS KingKong\\Program.cs",
+              "RelativeToolTip": "Godzila VS KingKong\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:26:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Photo day\\Program.cs",
+              "RelativeDocumentMoniker": "Photo day\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Checks\\Photo day\\Program.cs",
+              "RelativeToolTip": "Photo day\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:08:24.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

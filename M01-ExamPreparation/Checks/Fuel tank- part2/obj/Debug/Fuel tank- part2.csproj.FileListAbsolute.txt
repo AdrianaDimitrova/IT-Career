@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\bin\Debug\Fuel tank- part2.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\bin\Debug\Fuel tank- part2.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\bin\Debug\Fuel tank- part2.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\obj\Debug\Fuel tank- part2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\obj\Debug\Fuel tank- part2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\obj\Debug\Fuel tank- part2.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Checks\Fuel tank- part2\obj\Debug\Fuel tank- part2.pdb
