@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\bin\Debug\Christmas presents.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\bin\Debug\Christmas presents.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\bin\Debug\Christmas presents.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\obj\Debug\Christmas presents.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\obj\Debug\Christmas presents.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\obj\Debug\Christmas presents.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas presents\obj\Debug\Christmas presents.pdb
