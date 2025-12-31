@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\bin\Debug\Dishwasher.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\bin\Debug\Dishwasher.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\bin\Debug\Dishwasher.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\obj\Debug\Dishwasher.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\obj\Debug\Dishwasher.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\obj\Debug\Dishwasher.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Loops\Dishwasher\obj\Debug\Dishwasher.pdb
