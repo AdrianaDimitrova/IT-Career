@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\bin\Debug\Moon distance.exe.config
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\bin\Debug\Moon distance.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\bin\Debug\Moon distance.pdb
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\obj\Debug\Moon distance.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\obj\Debug\Moon distance.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\obj\Debug\Moon distance.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Moon distance\obj\Debug\Moon distance.pdb

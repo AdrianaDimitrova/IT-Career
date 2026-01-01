@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\bin\Debug\Winning numbers - part 2.exe.config
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\bin\Debug\Winning numbers - part 2.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\bin\Debug\Winning numbers - part 2.pdb
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\obj\Debug\Winning numbers - part 2.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\obj\Debug\Winning numbers - part 2.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\obj\Debug\Winning numbers - part 2.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Winning numbers - part 2\obj\Debug\Winning numbers - part 2.pdb

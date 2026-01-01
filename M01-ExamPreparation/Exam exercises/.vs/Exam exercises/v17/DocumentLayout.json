@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74FA8C89-AE40-4232-B443-07163CCAF221}|Exam\\Exam.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FA8C89-AE40-4232-B443-07163CCAF221}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA7B4818-A5B2-4379-B1C4-EAE0CACB7613}|Harvest\\Harvest.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\harvest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7B4818-A5B2-4379-B1C4-EAE0CACB7613}|Harvest\\Harvest.csproj|solutionrelative:harvest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32B2C07-E58C-4F32-9F01-AB637259162F}|Sleeping cat\\Sleeping cat.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\sleeping cat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32B2C07-E58C-4F32-9F01-AB637259162F}|Sleeping cat\\Sleeping cat.csproj|solutionrelative:sleeping cat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063939B4-96B1-462D-8DCB-CEF03EC854AC}|Pool pipes\\Pool pipes.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\pool pipes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063939B4-96B1-462D-8DCB-CEF03EC854AC}|Pool pipes\\Pool pipes.csproj|solutionrelative:pool pipes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C096F14-6C69-4EFF-866E-E0EE68A09BF2}|Exercises\\Exercises.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C096F14-6C69-4EFF-866E-E0EE68A09BF2}|Exercises\\Exercises.csproj|solutionrelative:exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:04:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Harvest\\Program.cs",
+              "RelativeDocumentMoniker": "Harvest\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Harvest\\Program.cs",
+              "RelativeToolTip": "Harvest\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T16:02:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Sleeping cat\\Program.cs",
+              "RelativeDocumentMoniker": "Sleeping cat\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Sleeping cat\\Program.cs",
+              "RelativeToolTip": "Sleeping cat\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T15:04:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Pool pipes\\Program.cs",
+              "RelativeDocumentMoniker": "Pool pipes\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Pool pipes\\Program.cs",
+              "RelativeToolTip": "Pool pipes\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:28:55.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "Exercises\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exercises\\Program.cs",
+              "RelativeToolTip": "Exercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T11:11:16.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\bin\Debug\Christmas holiday.exe.config
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\bin\Debug\Christmas holiday.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\bin\Debug\Christmas holiday.pdb
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\obj\Debug\Christmas holiday.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\obj\Debug\Christmas holiday.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\obj\Debug\Christmas holiday.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Christmas holiday\obj\Debug\Christmas holiday.pdb

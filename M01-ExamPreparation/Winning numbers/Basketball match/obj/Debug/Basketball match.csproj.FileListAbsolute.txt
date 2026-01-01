@@ -1,7 +1,0 @@
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\bin\Debug\Basketball match.exe.config
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\bin\Debug\Basketball match.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\bin\Debug\Basketball match.pdb
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\obj\Debug\Basketball match.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\obj\Debug\Basketball match.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\obj\Debug\Basketball match.exe
-C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Winning numbers\Basketball match\obj\Debug\Basketball match.pdb
