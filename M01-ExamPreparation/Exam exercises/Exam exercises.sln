@@ -23,6 +23,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel room", "Hotel room\Ho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{D82550F7-9DD1-4AAE-B50A-7F2099CED112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division by 2", "Division by 2\Division by 2.csproj", "{F49FC938-0064-4C61-B797-35A9E57C15B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training Lab", "Training Lab\Training Lab.csproj", "{40B0C02B-1582-4EB1-91AE-988DA2BD5D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport Price", "Transport Price\Transport Price.csproj", "{A208FB09-81EB-4039-9612-F9E850BE9F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "On time for an exam", "On time for an exam\On time for an exam.csproj", "{9D1A8AF4-9A82-459B-9460-29C1BF5FF4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syupid password", "Syupid password\Syupid password.csproj", "{F3CBFE1C-A6ED-47E0-AD57-B43A2718959A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vegetable market", "Vegetable market\Vegetable market.csproj", "{95B63BA7-EB4C-4110-9CE5-70834D14D185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +81,30 @@ Global
 		{D82550F7-9DD1-4AAE-B50A-7F2099CED112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D82550F7-9DD1-4AAE-B50A-7F2099CED112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D82550F7-9DD1-4AAE-B50A-7F2099CED112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49FC938-0064-4C61-B797-35A9E57C15B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49FC938-0064-4C61-B797-35A9E57C15B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49FC938-0064-4C61-B797-35A9E57C15B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49FC938-0064-4C61-B797-35A9E57C15B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B0C02B-1582-4EB1-91AE-988DA2BD5D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B0C02B-1582-4EB1-91AE-988DA2BD5D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B0C02B-1582-4EB1-91AE-988DA2BD5D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B0C02B-1582-4EB1-91AE-988DA2BD5D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A208FB09-81EB-4039-9612-F9E850BE9F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A208FB09-81EB-4039-9612-F9E850BE9F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A208FB09-81EB-4039-9612-F9E850BE9F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A208FB09-81EB-4039-9612-F9E850BE9F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1A8AF4-9A82-459B-9460-29C1BF5FF4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1A8AF4-9A82-459B-9460-29C1BF5FF4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1A8AF4-9A82-459B-9460-29C1BF5FF4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1A8AF4-9A82-459B-9460-29C1BF5FF4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CBFE1C-A6ED-47E0-AD57-B43A2718959A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CBFE1C-A6ED-47E0-AD57-B43A2718959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CBFE1C-A6ED-47E0-AD57-B43A2718959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CBFE1C-A6ED-47E0-AD57-B43A2718959A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B63BA7-EB4C-4110-9CE5-70834D14D185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B63BA7-EB4C-4110-9CE5-70834D14D185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B63BA7-EB4C-4110-9CE5-70834D14D185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B63BA7-EB4C-4110-9CE5-70834D14D185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

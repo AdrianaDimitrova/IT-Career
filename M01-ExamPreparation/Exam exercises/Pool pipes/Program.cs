@@ -9,27 +9,26 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        //Input
-        int V = int.Parse(Console.ReadLine());
+        int volume = int.Parse(Console.ReadLine());
         int P1 = int.Parse(Console.ReadLine());
         int P2 = int.Parse(Console.ReadLine());
         double hours = double.Parse(Console.ReadLine());
 
-        //Action
-        double P1work = P1 * hours;
-        double P2work = P2 * hours;
-        double totalpipeswork = (P1work + P2work);
+        double P1Work = hours * P1;
+        double P2Work = hours * P2;
+        double totalWork = P1Work + P2Work;
 
-        if (totalpipeswork < V)
+        if (totalWork <= volume)
         {
-            double firstPipe = (P1work / totalpipeswork)*100;
-            double secondPipe = (P2work / totalpipeswork)*100;
-            Console.WriteLine($"The pool is {totalpipeswork/10}% full. Pipe 1: {Math.Floor(firstPipe)}%. Pipe 2: {Math.Floor(secondPipe)}%");
+            Console.WriteLine($"The pool is {(int)((totalWork / volume)*100)}% full. Pipe 1: {(int)((P1Work/totalWork)*100)}%. Pipe 2: {(int)((P2Work /totalWork) * 100)}%");
+
         }
-        else if (totalpipeswork>V)
+        else
         {
-            Console.WriteLine($"For {hours} hours the pool overflows with {Math.Abs(V-totalpipeswork):f1} liters.");
+            Console.WriteLine($"For {hours} hours the pool overflows with {totalWork-volume:f1} liters.");
         }
+
+
 
 
 
