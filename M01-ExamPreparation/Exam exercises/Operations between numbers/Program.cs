@@ -40,7 +40,7 @@ public class Program
             {
                 evenOrOdd = "odd";
             }
-            Console.WriteLine($"{N1} {oper} {N2} = {result} – {evenOrOdd}");
+            Console.WriteLine($"{N1} {oper} {N2} = {result} - {evenOrOdd}");
         }
 
         else if (oper == "%")
