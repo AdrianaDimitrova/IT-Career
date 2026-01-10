@@ -3,11 +3,79 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87831F28-4FE0-4548-BC96-AFA0FC1056DC}|Digits\\Digits.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{328F5844-8E32-4D8D-A4C4-246DE9D9FE72}|Bibi\u0027s number\\Bibi\u0027s number.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\bibi\u0027s number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328F5844-8E32-4D8D-A4C4-246DE9D9FE72}|Bibi\u0027s number\\Bibi\u0027s number.csproj|solutionrelative:bibi\u0027s number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55DC483F-EC7C-49B1-8B54-99DAA20F7D6A}|Camera\\Camera.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\camera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55DC483F-EC7C-49B1-8B54-99DAA20F7D6A}|Camera\\Camera.csproj|solutionrelative:camera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5B6944-3773-4CC5-8362-18A591D6248C}|Computer room\\Computer room.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\computer room\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC5B6944-3773-4CC5-8362-18A591D6248C}|Computer room\\Computer room.csproj|solutionrelative:computer room\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263505E6-84FA-4DE6-B875-0410A0798A02}|Multiply\\Multiply.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\multiply\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263505E6-84FA-4DE6-B875-0410A0798A02}|Multiply\\Multiply.csproj|solutionrelative:multiply\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E218CC99-D82B-4FE3-AF48-38D9FE68C926}|Space craft\\Space craft.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\space craft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E218CC99-D82B-4FE3-AF48-38D9FE68C926}|Space craft\\Space craft.csproj|solutionrelative:space craft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EECD7C5-3D42-45EE-A674-1D5D8B252F73}|Photp exhibition\\Photp exhibition.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\photp exhibition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EECD7C5-3D42-45EE-A674-1D5D8B252F73}|Photp exhibition\\Photp exhibition.csproj|solutionrelative:photp exhibition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50884490-4D95-4313-9FCC-E9DE7C56255C}|Statistics\\Statistics.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\statistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50884490-4D95-4313-9FCC-E9DE7C56255C}|Statistics\\Statistics.csproj|solutionrelative:statistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F0F11A-ACBC-4E1A-A04D-F9D85C16045A}|Excursion\\Excursion.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\excursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F0F11A-ACBC-4E1A-A04D-F9D85C16045A}|Excursion\\Excursion.csproj|solutionrelative:excursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD10A8C-7CB4-43AA-B6EC-0D95A3AE0706}|Online shop\\Online shop.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\online shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD10A8C-7CB4-43AA-B6EC-0D95A3AE0706}|Online shop\\Online shop.csproj|solutionrelative:online shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA36758-A01E-4B16-BC79-C291C77D5267}|Party\\Party.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA36758-A01E-4B16-BC79-C291C77D5267}|Party\\Party.csproj|solutionrelative:party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD30CEF-2C16-4503-820B-F2592027D4D0}|Division6\\Division6.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\division6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD30CEF-2C16-4503-820B-F2592027D4D0}|Division6\\Division6.csproj|solutionrelative:division6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8A6482-0494-470D-BF90-D0C9C6D998ED}|Division2\\Division2.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\division2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8A6482-0494-470D-BF90-D0C9C6D998ED}|Division2\\Division2.csproj|solutionrelative:division2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1658485-F739-48A2-ABAD-A5051D078046}|Winning tickets\\Winning tickets.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\winning tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1658485-F739-48A2-ABAD-A5051D078046}|Winning tickets\\Winning tickets.csproj|solutionrelative:winning tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67570F33-1176-4DB2-A828-C84458AFE76F}|Tennis ranklist\\Tennis ranklist.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\tennis ranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67570F33-1176-4DB2-A828-C84458AFE76F}|Tennis ranklist\\Tennis ranklist.csproj|solutionrelative:tennis ranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0284FC18-4CB2-44CA-996F-9FE47F1DBEB0}|Wimbeldon tickets\\Wimbeldon tickets.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\wimbeldon tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0284FC18-4CB2-44CA-996F-9FE47F1DBEB0}|Wimbeldon tickets\\Wimbeldon tickets.csproj|solutionrelative:wimbeldon tickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561DB603-449A-4D3F-B180-0D7A9431F608}|TennisResults\\TennisResults.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\tennisresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561DB603-449A-4D3F-B180-0D7A9431F608}|TennisResults\\TennisResults.csproj|solutionrelative:tennisresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A786418E-89BF-4E5F-A81A-37253C8D779D}|Tennis equipment\\Tennis equipment.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\tennis equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A786418E-89BF-4E5F-A81A-37253C8D779D}|Tennis equipment\\Tennis equipment.csproj|solutionrelative:tennis equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87831F28-4FE0-4548-BC96-AFA0FC1056DC}|Digits\\Digits.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87831F28-4FE0-4548-BC96-AFA0FC1056DC}|Digits\\Digits.csproj|solutionrelative:digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCAB7863-94A3-4B0F-98DD-8AB365E79A0C}|Hospital\\Hospital.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m01-exampreparation\\exam exercises\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCAB7863-94A3-4B0F-98DD-8AB365E79A0C}|Hospital\\Hospital.csproj|C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCAB7863-94A3-4B0F-98DD-8AB365E79A0C}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -132,18 +200,232 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Digits\\Program.cs",
-              "RelativeDocumentMoniker": "Digits\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Digits\\Program.cs",
-              "RelativeToolTip": "Digits\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Bibi\u0027s number\\Program.cs",
+              "RelativeDocumentMoniker": "Bibi\u0027s number\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Bibi\u0027s number\\Program.cs",
+              "RelativeToolTip": "Bibi\u0027s number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T17:09:35.055Z",
+              "WhenOpened": "2026-01-10T18:46:53.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Camera\\Program.cs",
+              "RelativeDocumentMoniker": "Camera\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Camera\\Program.cs",
+              "RelativeToolTip": "Camera\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:39:57.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Computer room\\Program.cs",
+              "RelativeDocumentMoniker": "Computer room\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Computer room\\Program.cs",
+              "RelativeToolTip": "Computer room\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwF0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:25:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Space craft\\Program.cs",
+              "RelativeDocumentMoniker": "Space craft\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Space craft\\Program.cs",
+              "RelativeToolTip": "Space craft\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:18:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Photp exhibition\\Program.cs",
+              "RelativeDocumentMoniker": "Photp exhibition\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Photp exhibition\\Program.cs",
+              "RelativeToolTip": "Photp exhibition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T18:14:39.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Multiply\\Program.cs",
+              "RelativeDocumentMoniker": "Multiply\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Multiply\\Program.cs",
+              "RelativeToolTip": "Multiply\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T17:31:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Statistics\\Program.cs",
+              "RelativeDocumentMoniker": "Statistics\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Statistics\\Program.cs",
+              "RelativeToolTip": "Statistics\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:48:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Excursion\\Program.cs",
+              "RelativeDocumentMoniker": "Excursion\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Excursion\\Program.cs",
+              "RelativeToolTip": "Excursion\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:34:39.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Online shop\\Program.cs",
+              "RelativeDocumentMoniker": "Online shop\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Online shop\\Program.cs",
+              "RelativeToolTip": "Online shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:18:22.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Party\\Program.cs",
+              "RelativeDocumentMoniker": "Party\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Party\\Program.cs",
+              "RelativeToolTip": "Party\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:13:05.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Division6\\Program.cs",
+              "RelativeDocumentMoniker": "Division6\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Division6\\Program.cs",
+              "RelativeToolTip": "Division6\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:55:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Division2\\Program.cs",
+              "RelativeDocumentMoniker": "Division2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Division2\\Program.cs",
+              "RelativeToolTip": "Division2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:45:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Winning tickets\\Program.cs",
+              "RelativeDocumentMoniker": "Winning tickets\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Winning tickets\\Program.cs",
+              "RelativeToolTip": "Winning tickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:36:04.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Tennis ranklist\\Program.cs",
+              "RelativeDocumentMoniker": "Tennis ranklist\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Tennis ranklist\\Program.cs",
+              "RelativeToolTip": "Tennis ranklist\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T09:05:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Wimbeldon tickets\\Program.cs",
+              "RelativeDocumentMoniker": "Wimbeldon tickets\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Wimbeldon tickets\\Program.cs",
+              "RelativeToolTip": "Wimbeldon tickets\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:21:16.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\TennisResults\\Program.cs",
+              "RelativeDocumentMoniker": "TennisResults\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\TennisResults\\Program.cs",
+              "RelativeToolTip": "TennisResults\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:01:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Tennis equipment\\Program.cs",
+              "RelativeDocumentMoniker": "Tennis equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Tennis equipment\\Program.cs",
+              "RelativeToolTip": "Tennis equipment\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T07:31:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Digits\\Program.cs",
+              "RelativeDocumentMoniker": "Digits\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Digits\\Program.cs",
+              "RelativeToolTip": "Digits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T17:09:35.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Hospital\\Program.cs",
               "RelativeDocumentMoniker": "Hospital\\Program.cs",
@@ -151,12 +433,11 @@
               "RelativeToolTip": "Hospital\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T16:45:04.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T16:45:04.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Firm\\Program.cs",
               "RelativeDocumentMoniker": "Firm\\Program.cs",
@@ -168,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Profit\\Program.cs",
               "RelativeDocumentMoniker": "Profit\\Program.cs",
@@ -180,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Stop number\\Program.cs",
               "RelativeDocumentMoniker": "Stop number\\Program.cs",
@@ -192,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Diamond\\Program.cs",
               "RelativeDocumentMoniker": "Diamond\\Program.cs",
@@ -204,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exercises\\Program.cs",
               "RelativeDocumentMoniker": "Exercises\\Program.cs",
@@ -216,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Back to the past\\Program.cs",
               "RelativeDocumentMoniker": "Back to the past\\Program.cs",
@@ -228,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Clever Lily\\Program.cs",
               "RelativeDocumentMoniker": "Clever Lily\\Program.cs",
@@ -240,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Butterfly\\Program.cs",
               "RelativeDocumentMoniker": "Butterfly\\Program.cs",
@@ -252,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Trip\\Program.cs",
               "RelativeDocumentMoniker": "Trip\\Program.cs",
@@ -264,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exercises\\Program.cs",
               "RelativeDocumentMoniker": "Exercises\\Program.cs",
@@ -276,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Special numbers\\Program.cs",
               "RelativeDocumentMoniker": "Special numbers\\Program.cs",
@@ -288,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Money\\Program.cs",
               "RelativeDocumentMoniker": "Money\\Program.cs",
@@ -300,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\On time for an exam\\Program.cs",
               "RelativeDocumentMoniker": "On time for an exam\\Program.cs",
@@ -312,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Training Lab\\Program.cs",
               "RelativeDocumentMoniker": "Training Lab\\Program.cs",
@@ -324,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Pool pipes\\Program.cs",
               "RelativeDocumentMoniker": "Pool pipes\\Program.cs",
@@ -336,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Operations between numbers\\Program.cs",
               "RelativeDocumentMoniker": "Operations between numbers\\Program.cs",
@@ -348,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Syupid password\\Program.cs",
               "RelativeDocumentMoniker": "Syupid password\\Program.cs",
@@ -360,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Journey\\Program.cs",
               "RelativeDocumentMoniker": "Journey\\Program.cs",
@@ -372,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Vegetable market\\Program.cs",
               "RelativeDocumentMoniker": "Vegetable market\\Program.cs",
@@ -384,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Sleeping cat\\Program.cs",
               "RelativeDocumentMoniker": "Sleeping cat\\Program.cs",
@@ -396,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Transport Price\\Program.cs",
               "RelativeDocumentMoniker": "Transport Price\\Program.cs",
@@ -408,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 42,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Division by 2\\Program.cs",
               "RelativeDocumentMoniker": "Division by 2\\Program.cs",
@@ -420,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Exam\\Program.cs",
               "RelativeDocumentMoniker": "Exam\\Program.cs",
@@ -432,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Harvest\\Program.cs",
               "RelativeDocumentMoniker": "Harvest\\Program.cs",
@@ -444,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 44,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Hotel room\\Program.cs",
               "RelativeDocumentMoniker": "Hotel room\\Program.cs",
@@ -456,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Histogram\\Program.cs",
               "RelativeDocumentMoniker": "Histogram\\Program.cs",
@@ -468,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M01-ExamPreparation\\Exam exercises\\Match ticket\\Program.cs",
               "RelativeDocumentMoniker": "Match ticket\\Program.cs",
