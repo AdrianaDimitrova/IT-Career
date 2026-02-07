@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\bin\Debug\Taxi.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\bin\Debug\Taxi.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\obj\Debug\Taxi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\obj\Debug\Taxi.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Taxi\obj\Debug\Taxi.pdb

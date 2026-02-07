@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\bin\Debug\Cuoboards.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\bin\Debug\Cuoboards.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\bin\Debug\Cuoboards.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\obj\Debug\Cuoboards.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\obj\Debug\Cuoboards.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\obj\Debug\Cuoboards.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Cuoboards\obj\Debug\Cuoboards.pdb

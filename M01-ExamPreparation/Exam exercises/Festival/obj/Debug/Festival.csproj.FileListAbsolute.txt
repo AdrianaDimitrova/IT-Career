@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\bin\Debug\Festival.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\bin\Debug\Festival.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\bin\Debug\Festival.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\obj\Debug\Festival.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\obj\Debug\Festival.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\obj\Debug\Festival.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Festival\obj\Debug\Festival.pdb

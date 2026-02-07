@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\bin\Debug\Sandwiches.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\bin\Debug\Sandwiches.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\bin\Debug\Sandwiches.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\obj\Debug\Sandwiches.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\obj\Debug\Sandwiches.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\obj\Debug\Sandwiches.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Sandwiches\obj\Debug\Sandwiches.pdb

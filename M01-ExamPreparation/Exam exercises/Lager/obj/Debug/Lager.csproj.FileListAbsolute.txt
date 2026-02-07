@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\bin\Debug\Lager.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\bin\Debug\Lager.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\bin\Debug\Lager.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\obj\Debug\Lager.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\obj\Debug\Lager.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\obj\Debug\Lager.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M01-ExamPreparation\Exam exercises\Lager\obj\Debug\Lager.pdb
