@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\bin\Debug\net8.0\P11-ElementSearching.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\bin\Debug\net8.0\P11-ElementSearching.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\bin\Debug\net8.0\P11-ElementSearching.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\bin\Debug\net8.0\P11-ElementSearching.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\bin\Debug\net8.0\P11-ElementSearching.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\refint\P11-ElementSearching.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\P11-ElementSearching.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P11-ElementSearching\obj\Debug\net8.0\ref\P11-ElementSearching.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P03-LetterIndex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf12714d605fc641a6b612ee4ca7d6b11429eb69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59662f4b797a086e3178f60856eb37ac4b3d579c")]
 [assembly: System.Reflection.AssemblyProductAttribute("P03-LetterIndex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P03-LetterIndex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

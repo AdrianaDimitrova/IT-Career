@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\bin\Debug\net8.0\P12-MergeArrays.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\bin\Debug\net8.0\P12-MergeArrays.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\bin\Debug\net8.0\P12-MergeArrays.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\bin\Debug\net8.0\P12-MergeArrays.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\bin\Debug\net8.0\P12-MergeArrays.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\refint\P12-MergeArrays.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\P12-MergeArrays.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P12-MergeArrays\obj\Debug\net8.0\ref\P12-MergeArrays.dll

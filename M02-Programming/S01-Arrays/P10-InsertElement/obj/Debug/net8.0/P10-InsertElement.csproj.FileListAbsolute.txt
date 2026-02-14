@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\bin\Debug\net8.0\P10-InsertElement.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\bin\Debug\net8.0\P10-InsertElement.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\bin\Debug\net8.0\P10-InsertElement.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\bin\Debug\net8.0\P10-InsertElement.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\bin\Debug\net8.0\P10-InsertElement.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\refint\P10-InsertElement.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\P10-InsertElement.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P10-InsertElement\obj\Debug\net8.0\ref\P10-InsertElement.dll
