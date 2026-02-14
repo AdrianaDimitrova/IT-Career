@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\bin\Debug\P03.-ArrayStatistics.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\bin\Debug\P03.-ArrayStatistics.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\bin\Debug\P03.-ArrayStatistics.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\obj\Debug\P03.-ArrayStatistics.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\obj\Debug\P03.-ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\obj\Debug\P03.-ArrayStatistics.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P03.-ArrayStatistics\obj\Debug\P03.-ArrayStatistics.pdb

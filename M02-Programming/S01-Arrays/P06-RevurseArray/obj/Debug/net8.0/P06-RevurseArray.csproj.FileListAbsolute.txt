@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\bin\Debug\net8.0\P06-RevurseArray.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\bin\Debug\net8.0\P06-RevurseArray.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\bin\Debug\net8.0\P06-RevurseArray.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\bin\Debug\net8.0\P06-RevurseArray.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\bin\Debug\net8.0\P06-RevurseArray.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\refint\P06-RevurseArray.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\P06-RevurseArray.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06-RevurseArray\obj\Debug\net8.0\ref\P06-RevurseArray.dll

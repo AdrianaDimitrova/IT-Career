@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\bin\Debug\net8.0\Arraymanipulation.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\bin\Debug\net8.0\Arraymanipulation.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\bin\Debug\net8.0\Arraymanipulation.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\bin\Debug\net8.0\Arraymanipulation.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\bin\Debug\net8.0\Arraymanipulation.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\refint\Arraymanipulation.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\Arraymanipulation.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P07-ValueTypeVsReferenceType\obj\Debug\net8.0\ref\Arraymanipulation.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\bin\Debug\net8.0\P05-ArrayInNumber.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\bin\Debug\net8.0\P05-ArrayInNumber.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\bin\Debug\net8.0\P05-ArrayInNumber.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\bin\Debug\net8.0\P05-ArrayInNumber.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\bin\Debug\net8.0\P05-ArrayInNumber.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\refint\P05-ArrayInNumber.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\P05-ArrayInNumber.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P05-ArrayInNumber\obj\Debug\net8.0\ref\P05-ArrayInNumber.dll

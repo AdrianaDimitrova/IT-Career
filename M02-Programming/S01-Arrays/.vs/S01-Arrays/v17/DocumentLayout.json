@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D838596E-693D-4630-817D-01212EE03BDC}|P08-Sklad\\P08-Sklad.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p08-sklad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D838596E-693D-4630-817D-01212EE03BDC}|P08-Sklad\\P08-Sklad.csproj|solutionrelative:p08-sklad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F7319A-B0F4-4AC6-9070-0693B0061807}|P07-ValueTypeVsReferenceType\\P07-ValueTypeVsReferenceType.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p07-valuetypevsreferencetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F7319A-B0F4-4AC6-9070-0693B0061807}|P07-ValueTypeVsReferenceType\\P07-ValueTypeVsReferenceType.csproj|solutionrelative:p07-valuetypevsreferencetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C58D46-B078-4F6F-B904-566B98EC4C5C}|P06-RevurseArray\\P06-RevurseArray.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p06-revursearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C58D46-B078-4F6F-B904-566B98EC4C5C}|P06-RevurseArray\\P06-RevurseArray.csproj|solutionrelative:p06-revursearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9896AB90-AD2A-416E-B2F5-A2A7C75F276B}|P05-ArrayInNumber\\P05-ArrayInNumber.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p05-arrayinnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9896AB90-AD2A-416E-B2F5-A2A7C75F276B}|P05-ArrayInNumber\\P05-ArrayInNumber.csproj|solutionrelative:p05-arrayinnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBD565C-2512-4C7F-8966-8DF180425363}|P06 - ReverseArray V2\\P06 - ReverseArray V2.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p06 - reversearray v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBD565C-2512-4C7F-8966-8DF180425363}|P06 - ReverseArray V2\\P06 - ReverseArray V2.csproj|solutionrelative:p06 - reversearray v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21189E52-C11D-4D15-B61A-659274F09E76}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21189E52-C11D-4D15-B61A-659274F09E76}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E81201-EAAE-4DDE-8C6E-FA5B2B9D123A}|P03.-ArrayStatistics\\P03.-ArrayStatistics.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p03.-arraystatistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E81201-EAAE-4DDE-8C6E-FA5B2B9D123A}|P03.-ArrayStatistics\\P03.-ArrayStatistics.csproj|solutionrelative:p03.-arraystatistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6D8CB4-D0B5-46A5-89D7-9B28EA93523C}|P01-ArrayIntro\\P01-ArrayIntro.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p01-arrayintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6D8CB4-D0B5-46A5-89D7-9B28EA93523C}|P01-ArrayIntro\\P01-ArrayIntro.csproj|solutionrelative:p01-arrayintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CFC053-116F-451B-9A14-A85A4F84AAB9}|P02-ReadArray\\P02-ReadArray.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s01-arrays\\p02-readarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CFC053-116F-451B-9A14-A85A4F84AAB9}|P02-ReadArray\\P02-ReadArray.csproj|solutionrelative:p02-readarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P08-Sklad\\Program.cs",
+              "RelativeDocumentMoniker": "P08-Sklad\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P08-Sklad\\Program.cs",
+              "RelativeToolTip": "P08-Sklad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T10:03:46.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P07-ValueTypeVsReferenceType\\Program.cs",
+              "RelativeDocumentMoniker": "P07-ValueTypeVsReferenceType\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P07-ValueTypeVsReferenceType\\Program.cs",
+              "RelativeToolTip": "P07-ValueTypeVsReferenceType\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:26:09.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P06 - ReverseArray V2\\Program.cs",
+              "RelativeDocumentMoniker": "P06 - ReverseArray V2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P06 - ReverseArray V2\\Program.cs",
+              "RelativeToolTip": "P06 - ReverseArray V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:12:24.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P06-RevurseArray\\Program.cs",
+              "RelativeDocumentMoniker": "P06-RevurseArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P06-RevurseArray\\Program.cs",
+              "RelativeToolTip": "P06-RevurseArray\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:06:02.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P05-ArrayInNumber\\Program.cs",
+              "RelativeDocumentMoniker": "P05-ArrayInNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P05-ArrayInNumber\\Program.cs",
+              "RelativeToolTip": "P05-ArrayInNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T08:56:27.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T08:44:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P03.-ArrayStatistics\\Program.cs",
+              "RelativeDocumentMoniker": "P03.-ArrayStatistics\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P03.-ArrayStatistics\\Program.cs",
+              "RelativeToolTip": "P03.-ArrayStatistics\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T08:11:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P02-ReadArray\\Program.cs",
+              "RelativeDocumentMoniker": "P02-ReadArray\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P02-ReadArray\\Program.cs",
+              "RelativeToolTip": "P02-ReadArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T07:57:13.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P01-ArrayIntro\\Program.cs",
+              "RelativeDocumentMoniker": "P01-ArrayIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S01-Arrays\\P01-ArrayIntro\\Program.cs",
+              "RelativeToolTip": "P01-ArrayIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T07:38:46.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

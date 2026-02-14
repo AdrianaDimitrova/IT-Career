@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\bin\Debug\net8.0\P08-Sklad.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\bin\Debug\net8.0\P08-Sklad.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\bin\Debug\net8.0\P08-Sklad.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\bin\Debug\net8.0\P08-Sklad.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\bin\Debug\net8.0\P08-Sklad.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\refint\P08-Sklad.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\P08-Sklad.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P08-Sklad\obj\Debug\net8.0\ref\P08-Sklad.dll

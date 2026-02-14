@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\bin\Debug\P01-ArrayIntro.exe.config
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\bin\Debug\P01-ArrayIntro.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\bin\Debug\P01-ArrayIntro.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\obj\Debug\P01-ArrayIntro.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\obj\Debug\P01-ArrayIntro.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\obj\Debug\P01-ArrayIntro.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P01-ArrayIntro\obj\Debug\P01-ArrayIntro.pdb

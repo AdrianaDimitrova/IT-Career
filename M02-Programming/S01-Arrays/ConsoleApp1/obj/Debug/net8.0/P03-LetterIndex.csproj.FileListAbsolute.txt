@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\bin\Debug\net8.0\P03-LetterIndex.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\bin\Debug\net8.0\P03-LetterIndex.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\bin\Debug\net8.0\P03-LetterIndex.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\bin\Debug\net8.0\P03-LetterIndex.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\bin\Debug\net8.0\P03-LetterIndex.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\refint\P03-LetterIndex.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\P03-LetterIndex.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\ConsoleApp1\obj\Debug\net8.0\ref\P03-LetterIndex.dll
