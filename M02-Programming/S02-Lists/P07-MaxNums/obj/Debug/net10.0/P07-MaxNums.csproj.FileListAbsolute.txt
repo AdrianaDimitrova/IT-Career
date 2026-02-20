@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\bin\Debug\net10.0\P07-MaxNums.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\bin\Debug\net10.0\P07-MaxNums.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\bin\Debug\net10.0\P07-MaxNums.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\bin\Debug\net10.0\P07-MaxNums.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\bin\Debug\net10.0\P07-MaxNums.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\refint\P07-MaxNums.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\P07-MaxNums.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P07-MaxNums\obj\Debug\net10.0\ref\P07-MaxNums.dll

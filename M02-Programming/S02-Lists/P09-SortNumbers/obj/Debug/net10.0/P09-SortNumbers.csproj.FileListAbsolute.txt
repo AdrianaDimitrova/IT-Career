@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\bin\Debug\net10.0\P09-SortNumbers.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\bin\Debug\net10.0\P09-SortNumbers.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\bin\Debug\net10.0\P09-SortNumbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\bin\Debug\net10.0\P09-SortNumbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\bin\Debug\net10.0\P09-SortNumbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\refint\P09-SortNumbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\P09-SortNumbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P09-SortNumbers\obj\Debug\net10.0\ref\P09-SortNumbers.dll

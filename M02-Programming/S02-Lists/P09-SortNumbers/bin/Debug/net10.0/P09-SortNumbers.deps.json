@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "P09-SortNumbers/1.0.0": {
+        "runtime": {
+          "P09-SortNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P09-SortNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

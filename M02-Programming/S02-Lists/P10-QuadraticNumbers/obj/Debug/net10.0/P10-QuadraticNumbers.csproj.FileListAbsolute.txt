@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\bin\Debug\net10.0\P10-QuadraticNumbers.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\bin\Debug\net10.0\P10-QuadraticNumbers.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\bin\Debug\net10.0\P10-QuadraticNumbers.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\bin\Debug\net10.0\P10-QuadraticNumbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\bin\Debug\net10.0\P10-QuadraticNumbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\refint\P10-QuadraticNumbers.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\P10-QuadraticNumbers.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P10-QuadraticNumbers\obj\Debug\net10.0\ref\P10-QuadraticNumbers.dll

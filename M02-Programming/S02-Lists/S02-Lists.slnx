@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="P01-List/P01-List.csproj" />
+  <Project Path="P02-Names/P02-Names.csproj" />
+  <Project Path="P03-NamesList-v2/P03-NamesList-v2.csproj" />
+  <Project Path="P05-NumbersList/P05-NumbersList.csproj" />
+  <Project Path="P06-KrainostiList/P06-KrainostiList.csproj" />
+  <Project Path="P07-MaxNums/P07-MaxNums.csproj" />
+  <Project Path="P08-ReversedNumbers/P08-ReversedNumbers.csproj" />
+  <Project Path="P09-SortNumbers/P09-SortNumbers.csproj" />
+  <Project Path="P10-CountNumbers/P10-CountNumbers.csproj" />
+  <Project Path="P10-QuadraticNumbers/P11-QuadraticNumbers.csproj" />
+  <Project Path="P11-SplittedWord/P12-SplittedWord.csproj" />
+  <Project Path="P13-ManipulatedList/P13-ManipulatedList.csproj" />
+</Solution>

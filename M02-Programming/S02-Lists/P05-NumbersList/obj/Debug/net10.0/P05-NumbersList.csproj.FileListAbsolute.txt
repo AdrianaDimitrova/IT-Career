@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\bin\Debug\net10.0\P05-NumbersList.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\bin\Debug\net10.0\P05-NumbersList.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\bin\Debug\net10.0\P05-NumbersList.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\bin\Debug\net10.0\P05-NumbersList.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\bin\Debug\net10.0\P05-NumbersList.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\refint\P05-NumbersList.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\P05-NumbersList.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P05-NumbersList\obj\Debug\net10.0\ref\P05-NumbersList.dll

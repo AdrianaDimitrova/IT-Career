@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\bin\Debug\net8.0\P06 - ReverseArray V2.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\bin\Debug\net8.0\P06 - ReverseArray V2.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\bin\Debug\net8.0\P06 - ReverseArray V2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\bin\Debug\net8.0\P06 - ReverseArray V2.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\bin\Debug\net8.0\P06 - ReverseArray V2.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\refint\P06 - ReverseArray V2.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\P06 - ReverseArray V2.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S01-Arrays\P06 - ReverseArray V2\obj\Debug\net8.0\ref\P06 - ReverseArray V2.dll

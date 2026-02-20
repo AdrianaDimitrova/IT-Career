@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "P10-QuadraticNumbers/1.0.0": {
+        "runtime": {
+          "P10-QuadraticNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P10-QuadraticNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

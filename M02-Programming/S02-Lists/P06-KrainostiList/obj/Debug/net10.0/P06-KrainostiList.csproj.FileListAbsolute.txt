@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\bin\Debug\net10.0\P06-KrainostiList.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\bin\Debug\net10.0\P06-KrainostiList.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\bin\Debug\net10.0\P06-KrainostiList.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\bin\Debug\net10.0\P06-KrainostiList.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\bin\Debug\net10.0\P06-KrainostiList.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\refint\P06-KrainostiList.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\P06-KrainostiList.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S02-Lists\P06-KrainostiList\obj\Debug\net10.0\ref\P06-KrainostiList.dll
