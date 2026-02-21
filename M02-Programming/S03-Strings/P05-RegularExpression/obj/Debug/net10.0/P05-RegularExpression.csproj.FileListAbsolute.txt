@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\bin\Debug\net10.0\P05-RegularExpression.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\bin\Debug\net10.0\P05-RegularExpression.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\bin\Debug\net10.0\P05-RegularExpression.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\bin\Debug\net10.0\P05-RegularExpression.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\bin\Debug\net10.0\P05-RegularExpression.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\refint\P05-RegularExpression.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\P05-RegularExpression.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P05-RegularExpression\obj\Debug\net10.0\ref\P05-RegularExpression.dll

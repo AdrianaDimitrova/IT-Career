@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C0FEE5-2D45-4CF5-8F21-D049C240AA16}|P09-MemoryGame\\P09-MemoryGame.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p09-memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C0FEE5-2D45-4CF5-8F21-D049C240AA16}|P09-MemoryGame\\P09-MemoryGame.csproj|solutionrelative:p09-memorygame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5497ECB-52BE-485F-B9B2-7FEA91A78004}|P08-TheLift\\P08-TheLift.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p08-thelift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5497ECB-52BE-485F-B9B2-7FEA91A78004}|P08-TheLift\\P08-TheLift.csproj|solutionrelative:p08-thelift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963ACB77-D4CD-4356-A65C-2579B211745B}|P07-exersices\\P07-exersices.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p07-exersices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963ACB77-D4CD-4356-A65C-2579B211745B}|P07-exersices\\P07-exersices.csproj|solutionrelative:p07-exersices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33D54CC-FAF8-4393-974E-6A266A8B0141}|P06-StringBuilder\\P06-StringBuilder.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p06-stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33D54CC-FAF8-4393-974E-6A266A8B0141}|P06-StringBuilder\\P06-StringBuilder.csproj|solutionrelative:p06-stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6955AB99-8B34-4380-BF01-D39C2A1ABF17}|P05-RegularExpression\\P05-RegularExpression.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p05-regularexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6955AB99-8B34-4380-BF01-D39C2A1ABF17}|P05-RegularExpression\\P05-RegularExpression.csproj|solutionrelative:p05-regularexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B00ADE43-1FA9-4553-BEBD-63CEA0B452FC}|P04-StringBuilder\\P04-StringBuilder.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p04-stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B00ADE43-1FA9-4553-BEBD-63CEA0B452FC}|P04-StringBuilder\\P04-StringBuilder.csproj|solutionrelative:p04-stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1FC589-6621-44CA-9199-EC80A0FAD00F}|P03-CharMethods\\P03-CharMethods.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p03-charmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1FC589-6621-44CA-9199-EC80A0FAD00F}|P03-CharMethods\\P03-CharMethods.csproj|solutionrelative:p03-charmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861D157A-75D2-4CC4-B0A5-7F243C53772D}|P02-StringMethods\\P02-StringMethods.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p02-stringmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861D157A-75D2-4CC4-B0A5-7F243C53772D}|P02-StringMethods\\P02-StringMethods.csproj|solutionrelative:p02-stringmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85E7AB-6A1F-45F0-84BD-459E8597919F}|P01-StringIntro\\P01-StringIntro.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s03-strings\\p01-stringintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA85E7AB-6A1F-45F0-84BD-459E8597919F}|P01-StringIntro\\P01-StringIntro.csproj|solutionrelative:p01-stringintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P09-MemoryGame\\Program.cs",
+              "RelativeDocumentMoniker": "P09-MemoryGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P09-MemoryGame\\Program.cs",
+              "RelativeToolTip": "P09-MemoryGame\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:30:37.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P08-TheLift\\Program.cs",
+              "RelativeDocumentMoniker": "P08-TheLift\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P08-TheLift\\Program.cs",
+              "RelativeToolTip": "P08-TheLift\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:56:30.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P07-exersices\\Program.cs",
+              "RelativeDocumentMoniker": "P07-exersices\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P07-exersices\\Program.cs",
+              "RelativeToolTip": "P07-exersices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:14:22.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P06-StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "P06-StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P06-StringBuilder\\Program.cs",
+              "RelativeToolTip": "P06-StringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:55:56.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P05-RegularExpression\\Program.cs",
+              "RelativeDocumentMoniker": "P05-RegularExpression\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P05-RegularExpression\\Program.cs",
+              "RelativeToolTip": "P05-RegularExpression\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:29:05.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P04-StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "P04-StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P04-StringBuilder\\Program.cs",
+              "RelativeToolTip": "P04-StringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:20:52.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P03-CharMethods\\Program.cs",
+              "RelativeDocumentMoniker": "P03-CharMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P03-CharMethods\\Program.cs",
+              "RelativeToolTip": "P03-CharMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:16:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P02-StringMethods\\Program.cs",
+              "RelativeDocumentMoniker": "P02-StringMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P02-StringMethods\\Program.cs",
+              "RelativeToolTip": "P02-StringMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:00:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P01-StringIntro\\Program.cs",
+              "RelativeDocumentMoniker": "P01-StringIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S03-Strings\\P01-StringIntro\\Program.cs",
+              "RelativeToolTip": "P01-StringIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T08:54:26.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

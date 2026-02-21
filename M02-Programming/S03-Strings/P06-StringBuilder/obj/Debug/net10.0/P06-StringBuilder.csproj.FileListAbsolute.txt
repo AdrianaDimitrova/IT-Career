@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\bin\Debug\net10.0\P06-StringBuilder.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\bin\Debug\net10.0\P06-StringBuilder.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\bin\Debug\net10.0\P06-StringBuilder.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\bin\Debug\net10.0\P06-StringBuilder.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\bin\Debug\net10.0\P06-StringBuilder.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\refint\P06-StringBuilder.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\P06-StringBuilder.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P06-StringBuilder\obj\Debug\net10.0\ref\P06-StringBuilder.dll

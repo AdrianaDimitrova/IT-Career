@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\bin\Debug\net10.0\P09-MemoryGame.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\bin\Debug\net10.0\P09-MemoryGame.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\bin\Debug\net10.0\P09-MemoryGame.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\bin\Debug\net10.0\P09-MemoryGame.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\bin\Debug\net10.0\P09-MemoryGame.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\refint\P09-MemoryGame.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\P09-MemoryGame.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P09-MemoryGame\obj\Debug\net10.0\ref\P09-MemoryGame.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\bin\Debug\net10.0\P03-CharMethods.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\bin\Debug\net10.0\P03-CharMethods.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\bin\Debug\net10.0\P03-CharMethods.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\bin\Debug\net10.0\P03-CharMethods.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\bin\Debug\net10.0\P03-CharMethods.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\refint\P03-CharMethods.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\P03-CharMethods.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P03-CharMethods\obj\Debug\net10.0\ref\P03-CharMethods.dll

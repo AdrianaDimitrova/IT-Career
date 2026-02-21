@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\bin\Debug\net10.0\P08-TheLift.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\bin\Debug\net10.0\P08-TheLift.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\bin\Debug\net10.0\P08-TheLift.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\bin\Debug\net10.0\P08-TheLift.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\bin\Debug\net10.0\P08-TheLift.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\refint\P08-TheLift.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\P08-TheLift.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M02-Programming\S03-Strings\P08-TheLift\obj\Debug\net10.0\ref\P08-TheLift.dll

@@ -11,4 +11,5 @@
   <Project Path="P10-QuadraticNumbers/P11-QuadraticNumbers.csproj" />
   <Project Path="P11-SplittedWord/P12-SplittedWord.csproj" />
   <Project Path="P13-ManipulatedList/P13-ManipulatedList.csproj" />
+  <Project Path="P14-ListManipulator/P14-ListManipulator.csproj" Id="cc5b13ca-b237-402f-b3f2-e76ecfa3fca6" />
 </Solution>

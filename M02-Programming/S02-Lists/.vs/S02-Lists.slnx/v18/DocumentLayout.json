@@ -3,52 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A33BC4-27ED-480A-961B-CCB142E237E3}|P13-ManipulatedList\\P13-ManipulatedList.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p13-manipulatedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A33BC4-27ED-480A-961B-CCB142E237E3}|P13-ManipulatedList\\P13-ManipulatedList.csproj|solutionrelative:p13-manipulatedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC5B13CA-B237-402F-B3F2-E76ECFA3FCA6}|P14-ListManipulator\\P14-ListManipulator.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p14-listmanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5B13CA-B237-402F-B3F2-E76ECFA3FCA6}|P14-ListManipulator\\P14-ListManipulator.csproj|solutionrelative:p14-listmanipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26C64A95-B929-4FB8-84D4-8258D396EAC1}|P11-SplittedWord\\P11-SplittedWord.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p11-splittedword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26C64A95-B929-4FB8-84D4-8258D396EAC1}|P11-SplittedWord\\P11-SplittedWord.csproj|solutionrelative:p11-splittedword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EBA4F7F-FFFE-C779-EA7A-D0E0FCDD9EAA}|P13-ManipulatedList\\P13-ManipulatedList.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p13-manipulatedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBA4F7F-FFFE-C779-EA7A-D0E0FCDD9EAA}|P13-ManipulatedList\\P13-ManipulatedList.csproj|solutionrelative:p13-manipulatedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3977B15-0615-4868-8533-7E2EF3C02741}|P10-CountNumbers\\P10-CountNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p10-countnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3977B15-0615-4868-8533-7E2EF3C02741}|P10-CountNumbers\\P10-CountNumbers.csproj|solutionrelative:p10-countnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5556365-8923-6BB1-AB24-C3574A1EF150}|P11-SplittedWord\\P12-SplittedWord.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p11-splittedword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5556365-8923-6BB1-AB24-C3574A1EF150}|P11-SplittedWord\\P12-SplittedWord.csproj|solutionrelative:p11-splittedword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322AE2C5-C17C-425A-BBAE-34ACD17C67A6}|P10-QuadraticNumbers\\P10-QuadraticNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p10-quadraticnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{322AE2C5-C17C-425A-BBAE-34ACD17C67A6}|P10-QuadraticNumbers\\P10-QuadraticNumbers.csproj|solutionrelative:p10-quadraticnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07BF7143-0FBD-6763-EE71-F93770AF2484}|P10-CountNumbers\\P10-CountNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p10-countnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07BF7143-0FBD-6763-EE71-F93770AF2484}|P10-CountNumbers\\P10-CountNumbers.csproj|solutionrelative:p10-countnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6DAAA06-2326-4E47-8D9E-0DD70B2AA65B}|P09-SortNumbers\\P09-SortNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p09-sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6DAAA06-2326-4E47-8D9E-0DD70B2AA65B}|P09-SortNumbers\\P09-SortNumbers.csproj|solutionrelative:p09-sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E3B9403-4539-2DBC-3E88-7A554303F3BB}|P10-QuadraticNumbers\\P11-QuadraticNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p10-quadraticnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3B9403-4539-2DBC-3E88-7A554303F3BB}|P10-QuadraticNumbers\\P11-QuadraticNumbers.csproj|solutionrelative:p10-quadraticnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95AA6081-F864-440C-9257-E2966AD25D02}|P08-ReversedNumbers\\P08-ReversedNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p08-reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95AA6081-F864-440C-9257-E2966AD25D02}|P08-ReversedNumbers\\P08-ReversedNumbers.csproj|solutionrelative:p08-reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{966812A2-9143-2133-E81F-B42EF804D259}|P09-SortNumbers\\P09-SortNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p09-sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966812A2-9143-2133-E81F-B42EF804D259}|P09-SortNumbers\\P09-SortNumbers.csproj|solutionrelative:p09-sortnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29D61BE9-CACD-4A65-8F15-E5EBFA5C9FE7}|P07-MaxNums\\P07-MaxNums.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p07-maxnums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29D61BE9-CACD-4A65-8F15-E5EBFA5C9FE7}|P07-MaxNums\\P07-MaxNums.csproj|solutionrelative:p07-maxnums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{494495EF-3911-C6D4-7B96-DD28341E129E}|P08-ReversedNumbers\\P08-ReversedNumbers.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p08-reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494495EF-3911-C6D4-7B96-DD28341E129E}|P08-ReversedNumbers\\P08-ReversedNumbers.csproj|solutionrelative:p08-reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9815F76-D7CC-4746-9712-6176E997CCB0}|P01-List\\P01-List.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p01-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9815F76-D7CC-4746-9712-6176E997CCB0}|P01-List\\P01-List.csproj|solutionrelative:p01-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{064B252B-8A13-1E2E-EB5C-85E9559570EA}|P07-MaxNums\\P07-MaxNums.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p07-maxnums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064B252B-8A13-1E2E-EB5C-85E9559570EA}|P07-MaxNums\\P07-MaxNums.csproj|solutionrelative:p07-maxnums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D36228D-0876-466E-B26A-2DD1E5B75F10}|P06-KrainostiList\\P06-KrainostiList.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p06-krainostilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D36228D-0876-466E-B26A-2DD1E5B75F10}|P06-KrainostiList\\P06-KrainostiList.csproj|solutionrelative:p06-krainostilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76132F6A-66D4-5550-5B6B-616FB1A07F52}|P06-KrainostiList\\P06-KrainostiList.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p06-krainostilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76132F6A-66D4-5550-5B6B-616FB1A07F52}|P06-KrainostiList\\P06-KrainostiList.csproj|solutionrelative:p06-krainostilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B864E9FE-AAF6-42E7-899C-0E306934DD5E}|P05-NumbersList\\P05-NumbersList.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p05-numberslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B864E9FE-AAF6-42E7-899C-0E306934DD5E}|P05-NumbersList\\P05-NumbersList.csproj|solutionrelative:p05-numberslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{517A8A8F-614F-AE5E-7C6A-5EDA6832E1E6}|P05-NumbersList\\P05-NumbersList.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p05-numberslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517A8A8F-614F-AE5E-7C6A-5EDA6832E1E6}|P05-NumbersList\\P05-NumbersList.csproj|solutionrelative:p05-numberslist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4768B5AA-9E5B-43C9-9B1C-B83FBBCD4388}|P03-NamesList-v2\\P03-NamesList-v2.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p03-nameslist-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4768B5AA-9E5B-43C9-9B1C-B83FBBCD4388}|P03-NamesList-v2\\P03-NamesList-v2.csproj|solutionrelative:p03-nameslist-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47CE96D5-C627-1F6C-B0F7-F6A0D10BECA2}|P03-NamesList-v2\\P03-NamesList-v2.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p03-nameslist-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CE96D5-C627-1F6C-B0F7-F6A0D10BECA2}|P03-NamesList-v2\\P03-NamesList-v2.csproj|solutionrelative:p03-nameslist-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D919761-4159-4839-8953-262533AD7276}|P02-Names\\P02-Names.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p02-names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D919761-4159-4839-8953-262533AD7276}|P02-Names\\P02-Names.csproj|solutionrelative:p02-names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB5D7AC-8D4A-FF33-2D81-8416A0121E5C}|P02-Names\\P02-Names.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p02-names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB5D7AC-8D4A-FF33-2D81-8416A0121E5C}|P02-Names\\P02-Names.csproj|solutionrelative:p02-names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DCF9C5-F636-CE0B-CF3A-B25704F40BFC}|P01-List\\P01-List.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m02-programming\\s02-lists\\p01-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DCF9C5-F636-CE0B-CF3A-B25704F40BFC}|P01-List\\P01-List.csproj|solutionrelative:p01-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,6 +68,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P14-ListManipulator\\Program.cs",
+              "RelativeDocumentMoniker": "P14-ListManipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P14-ListManipulator\\Program.cs",
+              "RelativeToolTip": "P14-ListManipulator\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T07:40:44.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P13-ManipulatedList\\Program.cs",
               "RelativeDocumentMoniker": "P13-ManipulatedList\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P13-ManipulatedList\\Program.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P11-SplittedWord\\Program.cs",
               "RelativeDocumentMoniker": "P11-SplittedWord\\Program.cs",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "P11-SplittedWord\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:59:11.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T09:59:11.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P10-CountNumbers\\Program.cs",
               "RelativeDocumentMoniker": "P10-CountNumbers\\Program.cs",
@@ -96,12 +112,11 @@
               "RelativeToolTip": "P10-CountNumbers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:46:23.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T09:46:23.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P10-QuadraticNumbers\\Program.cs",
               "RelativeDocumentMoniker": "P10-QuadraticNumbers\\Program.cs",
@@ -109,12 +124,11 @@
               "RelativeToolTip": "P10-QuadraticNumbers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:37:12.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T09:37:12.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P09-SortNumbers\\Program.cs",
               "RelativeDocumentMoniker": "P09-SortNumbers\\Program.cs",
@@ -122,12 +136,11 @@
               "RelativeToolTip": "P09-SortNumbers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:31:54.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T09:31:54.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P08-ReversedNumbers\\Program.cs",
               "RelativeDocumentMoniker": "P08-ReversedNumbers\\Program.cs",
@@ -135,12 +148,11 @@
               "RelativeToolTip": "P08-ReversedNumbers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:08:38.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T09:08:38.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P07-MaxNums\\Program.cs",
               "RelativeDocumentMoniker": "P07-MaxNums\\Program.cs",
@@ -148,8 +160,7 @@
               "RelativeToolTip": "P07-MaxNums\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T08:50:52.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T08:50:52.129Z"
             },
             {
               "$type": "Document",
@@ -161,8 +172,7 @@
               "RelativeToolTip": "P06-KrainostiList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T08:15:30.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T08:15:30.377Z"
             },
             {
               "$type": "Document",
@@ -174,8 +184,7 @@
               "RelativeToolTip": "P05-NumbersList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T08:04:49.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T08:04:49.997Z"
             },
             {
               "$type": "Document",
@@ -187,8 +196,7 @@
               "RelativeToolTip": "P03-NamesList-v2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T07:54:49.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T07:54:49.725Z"
             },
             {
               "$type": "Document",
@@ -200,12 +208,11 @@
               "RelativeToolTip": "P02-Names\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T07:44:54.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T07:44:54.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M02-Programming\\S02-Lists\\P01-List\\Program.cs",
               "RelativeDocumentMoniker": "P01-List\\Program.cs",
@@ -213,8 +220,7 @@
               "RelativeToolTip": "P01-List\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T07:39:18.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T07:39:18.893Z"
             }
           ]
         }

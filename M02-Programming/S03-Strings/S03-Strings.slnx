@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="P01-StringIntro/P01-StringIntro.csproj" />
+  <Project Path="P02-StringMethods/P02-StringMethods.csproj" />
+  <Project Path="P03-CharMethods/P03-CharMethods.csproj" />
+  <Project Path="P04-StringBuilder/P04-StringBuilder.csproj" />
+  <Project Path="P05-RegularExpression/P05-RegularExpression.csproj" />
+  <Project Path="P06-StringBuilder/P06-StringBuilder.csproj" />
+  <Project Path="P07-exersices/P07-ComputerStore.csproj" />
+  <Project Path="P08-TheLift/P08-TheLift.csproj" />
+  <Project Path="P09-MemoryGame/P09-MemoryGame.csproj" />
+</Solution>
