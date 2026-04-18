@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\bin\Debug\net10.0\P02-Cars.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\bin\Debug\net10.0\P02-Cars.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\bin\Debug\net10.0\P02-Cars.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\bin\Debug\net10.0\P02-Cars.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\bin\Debug\net10.0\P02-Cars.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\refint\P02-Cars.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\P02-Cars.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P02-Cars\obj\Debug\net10.0\ref\P02-Cars.dll

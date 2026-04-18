@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\bin\Debug\net10.0\P01-Person.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\bin\Debug\net10.0\P01-Person.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\bin\Debug\net10.0\P01-Person.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\bin\Debug\net10.0\P01-Person.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\bin\Debug\net10.0\P01-Person.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\refint\P01-Person.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\P01-Person.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P01-Person\obj\Debug\net10.0\ref\P01-Person.dll

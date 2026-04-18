@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711D6555-147D-4DEB-AF29-DD6CDCC15836}|P03-CarDealer\\P03-CarDealer.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m03-oop\\s01-defineclass\\p03-cardealer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D6555-147D-4DEB-AF29-DD6CDCC15836}|P03-CarDealer\\P03-CarDealer.csproj|solutionrelative:p03-cardealer\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D6555-147D-4DEB-AF29-DD6CDCC15836}|P03-CarDealer\\P03-CarDealer.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m03-oop\\s01-defineclass\\p03-cardealer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D6555-147D-4DEB-AF29-DD6CDCC15836}|P03-CarDealer\\P03-CarDealer.csproj|solutionrelative:p03-cardealer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711D6555-147D-4DEB-AF29-DD6CDCC15836}|P03-CarDealer\\P03-CarDealer.csproj|c:\\users\\lenovo\\desktop\\reponew\\it-career\\m03-oop\\s01-defineclass\\p03-cardealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711D6555-147D-4DEB-AF29-DD6CDCC15836}|P03-CarDealer\\P03-CarDealer.csproj|solutionrelative:p03-cardealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\P03-CarDealer\\Car.cs",
+              "RelativeDocumentMoniker": "P03-CarDealer\\Car.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\P03-CarDealer\\Car.cs",
+              "RelativeToolTip": "P03-CarDealer\\Car.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:46:00.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\P03-CarDealer\\Engine.cs",
+              "RelativeDocumentMoniker": "P03-CarDealer\\Engine.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\P03-CarDealer\\Engine.cs",
+              "RelativeToolTip": "P03-CarDealer\\Engine.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:45:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\P03-CarDealer\\Program.cs",
+              "RelativeDocumentMoniker": "P03-CarDealer\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\RepoNew\\IT-Career\\M03-OOP\\S01-DefineClass\\P03-CarDealer\\Program.cs",
+              "RelativeToolTip": "P03-CarDealer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:44:50.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\bin\Debug\net10.0\P03-CarDealer.exe
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\bin\Debug\net10.0\P03-CarDealer.deps.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\bin\Debug\net10.0\P03-CarDealer.runtimeconfig.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\bin\Debug\net10.0\P03-CarDealer.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\bin\Debug\net10.0\P03-CarDealer.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.sourcelink.json
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\refint\P03-CarDealer.dll
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.pdb
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\P03-CarDealer.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\RepoNew\IT-Career\M03-OOP\S01-DefineClass\P03-CarDealer\obj\Debug\net10.0\ref\P03-CarDealer.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="P01-Person/P01-Person.csproj" />
+  <Project Path="P02-Cars/P02-Cars.csproj" />
+  <Project Path="P03-CarDealer/P03-CarDealer.csproj" />
+  <Project Path="P04-Teams/P04-Teams.csproj" />
+  <Project Path="P05-FootballTeam/P05-FootballTeam.csproj" />
+</Solution>
